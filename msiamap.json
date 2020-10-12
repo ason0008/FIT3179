@@ -1,0 +1,90 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "data": {
+        "name": "map_population_density",
+        "url": "https://ason0008.github.io/FIT3179/data/state_boundaries.json",
+        "format": {"property": "features"}
+    },
+    "vconcat": [
+        {
+            "encoding": {
+              "color": {
+                "condition": {
+                  "selection": "click",
+                  "field": "properties.population_density",
+                  "type": "quantitative",
+                  "scale": {"scheme": "yellowgreenblue"},
+                  "legend": {"title": "Population Density"}
+                },
+                "value": "lightgray"
+              },
+              "tooltip": [
+                {
+                  "field": "properties.state", 
+                  "type": "nominal",
+                  "title": "State"
+                },
+                {
+                  "field": "properties.population_density",
+                  "type": "quantitative",
+                  "title": "Population Density"
+                }
+              ]
+            },
+            "selection": {
+                "click": {
+                    "fields": ["properties.state"], 
+                    "type": "single"
+                }
+            },
+            "mark": {
+                "type": "geoshape",
+                "stroke": "#000000",
+                "strokeWidth": 0.5
+            },
+            "width": 300,
+            "height": 100
+        },
+        {
+            "transform":[{"filter": {"selection": "click"}},
+            {
+              "lookup": "properties.state",
+              "from": {
+                "data": {
+                "name": "age_ethnic",
+                "url": "https://ason0008.github.io/FIT3179/data/age_ethnic.json"
+                },
+              "key": "state",
+              "fields": ["state", "age", "ethnicity", "population"]
+              }
+            }],
+            "encoding": {
+                "x": {
+                    "field": "ethnicity",
+                    "type": "nominal",
+                    "axis": {"title": "Ethnicity"}
+                },
+                "y": {
+                    "field": "age",
+                    "type": "nominal",
+                    "axis": {"title": "Age"}
+
+                },
+                "color": {
+                    "field": "population",
+                    "type": "quantitative",
+                    "scale": {"scheme": "redpurple"},
+                    "legend": {"title": "Population"}
+                }
+            },
+            "mark": "rect",
+            "width": 300,
+            "height": 300
+        }
+    ],
+    "resolve": {
+      "legend": {"color": "independent"},
+      "scale": {"color": "independent"}
+    },
+    "config": {}
+  }
