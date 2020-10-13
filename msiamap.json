@@ -7,79 +7,84 @@
     },
     "vconcat": [
         {
-            "encoding": {
-              "color": {
-                "condition": {
-                  "selection": "click",
-                  "field": "properties.population_density",
-                  "type": "quantitative",
-                  "scale": {"scheme": "yellowgreenblue"},
-                  "legend": {"title": "Population Density"}
-                },
-                "value": "lightgray"
+          "encoding": {
+            "color": {
+              "condition": {
+                "selection": "click",
+                "field": "properties.population_density",
+                "type": "quantitative",
+                "scale": {"scheme": "yellowgreenblue"},
+                "legend": {"title": "Population Density"}
               },
-              "tooltip": [
-                {
-                  "field": "properties.state", 
-                  "type": "nominal",
-                  "title": "State"
-                },
-                {
-                  "field": "properties.population_density",
-                  "type": "quantitative",
-                  "title": "Population Density"
-                }
-              ]
+              "value": "lightgray"
             },
-            "selection": {
-                "click": {
-                    "fields": ["properties.state"], 
-                    "type": "single"
-                }
-            },
-            "mark": {
-                "type": "geoshape",
-                "stroke": "#000000",
-                "strokeWidth": 0.5
-            },
-            "width": 300,
-            "height": 100
+            "tooltip": [
+              {
+                "field": "properties.state", 
+                "type": "nominal",
+                "title": "State"
+              },
+              {
+                "field": "properties.population_density",
+                "type": "quantitative",
+                "title": "Population Density"
+              }
+            ]
+          },
+          "selection": {
+            "click": {
+                "fields": ["properties.state"], 
+                "type": "single"
+            }
+          },
+          "mark": {
+            "type": "geoshape",
+            "stroke": "#000000",
+            "strokeWidth": 0.5
+          },
+          "width": 300,
+          "height": 100
         },
         {
-            "transform":[{"filter": {"selection": "click"}},
+          "transform":[{"filter": {"selection": "click"}},
             {
               "lookup": "properties.state",
               "from": {
-                "data": {
-                "name": "age_ethnic",
-                "url": "https://ason0008.github.io/FIT3179/data/age_ethnic.json"
+                "data": 
+                {
+                  "name": "age_ethnic",
+                  "url": "https://ason0008.github.io/FIT3179/data/age_ethnic.json"
                 },
               "key": "state",
               "fields": ["state", "age", "ethnicity", "population"]
               }
-            }],
-            "encoding": {
-                "x": {
-                    "field": "ethnicity",
-                    "type": "nominal",
-                    "axis": {"title": "Ethnicity"}
-                },
-                "y": {
-                    "field": "age",
-                    "type": "nominal",
-                    "axis": {"title": "Age"}
-
-                },
-                "color": {
-                    "field": "population",
-                    "type": "quantitative",
-                    "scale": {"scheme": "redpurple"},
-                    "legend": {"title": "Population"}
-                }
+            }
+          ],
+          "encoding": {
+            "x": {
+              "field": "ethnicity",
+              "type": "nominal",
+              "title": "Ethnicity",
+              "scale": {"domain": ["Bumiputera", "Chinese", "Indians", "Others", "Non-Malaysian Citizens"]},
+              "axis": {"labelAngle": -45}
             },
-            "mark": "rect",
-            "width": 300,
-            "height": 300
+            "y": {
+              "field": "age",
+              "type": "nominal",
+              "title": "Age",
+              "scale": {"domain": ["0 - 4", "5 - 9", "10 - 14", "15 - 19", "20 - 24", "25 - 29", "30 - 34", "45 - 49", "50 - 54", "55 - 59", "60 - 64", "65 - 69", "70 - 74", "75 - 79", "80 - 84", "85+"]}
+            },
+            "color": {
+              "aggregate": "sum",
+              "field": "population",
+              "type": "quantitative",
+              "scale": {"scheme": "redpurple"},
+              "legend": {"title": "Population"}
+            }
+          },
+          "mark": "rect",
+          "width": 300,
+          "height": 300
         }
     ],
     "resolve": {
