@@ -1,0 +1,18 @@
+[
+  {"state": "Federal Territory of Kuala Lumpur", "density": 7299.18},
+  {"state": "Federal Territory of Labuan", "density": 1094.51},
+  {"state": "Federal Territory of Putrajaya", "density": 2244.90},
+  {"state": "Johor", "density": 196.83},
+  {"state": "Kedah", "density": 230.02},
+  {"state": "Kelantan", "density": 126.28},
+  {"state": "Melaka", "density": 560.52},
+  {"state": "Negeri Sembilan", "density": 168.83},
+  {"state": "Pahang", "density": 46.45},
+  {"state": "Penang", "density": 1692.37},
+  {"state": "Perak", "density": 119.34},
+  {"state": "Perlis", "density": 310.48},
+  {"state": "Sabah", "density": 53.08},
+  {"state": "Sarawak", "density": 22.63},
+  {"state": "Selangor", "density": 806.77},
+  {"state": "Terengganu", "density": 96.60}
+]
