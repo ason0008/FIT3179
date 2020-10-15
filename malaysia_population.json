@@ -1,0 +1,230 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "vconcat": [
+      {
+        "title": "Population Density of States in Malaysia 2020",
+        "data": {
+          "name": "malaysia_map",
+          "url": "https://ason0008.github.io/FIT3179/data/state_boundaries.json",
+          "format": {"property": "features"}
+        },
+        "layer": [
+          {
+            "transform": [{
+              "lookup": "properties.state",
+              "from": {
+                "data": {
+                  "name": "state_population",
+                  "url": "https://ason0008.github.io/FIT3179/data/state_population.json"
+                },
+                "key": "state",
+                "fields": ["state", "population_density"]
+              }
+            }],
+            "encoding": {
+              "color": {
+                "condition": {
+                  "selection": "click",
+                  "field": "population_density",
+                  "type": "quantitative",
+                  "scale": {"scheme": "yellowgreenblue"},
+                  "legend": {"title": "Population Density", "direction": "horizontal"}
+                },
+                "value": "lightgray"
+              },
+              "tooltip": [
+                {
+                  "field": "state", 
+                  "title": "State"
+                },
+                {
+                  "field": "population_density",
+                  "type": "quantitative",
+                  "title": "Population Density"
+                }
+              ]
+            },
+            "mark": {
+              "type": "geoshape",
+              "stroke": "#000000",
+              "strokeWidth": 0.5
+            }
+          },
+          {
+            "transform": [{
+              "lookup": "properties.state",
+              "from": {
+                "data": {
+                  "name": "fed_territory_population",
+                  "url": "https://ason0008.github.io/FIT3179/data/fed_territory_population.json"
+                },
+                "key": "state",
+                "fields": ["state", "population_density"]
+              }
+            }],
+            "encoding": {
+              "color": {
+                "condition": {
+                  "selection": "click",
+                  "field": "population_density",
+                  "type": "quantitative",
+                  "scale": {"scheme": "redpurple"},
+                  "legend": {"title": "FT Population Density", "direction": "horizontal"}
+                },
+                "value": "lightgray"
+              },
+              "tooltip": [
+                {
+                  "field": "state", 
+                  "title": "Federal Territory"
+                },
+                {
+                  "field": "population_density",
+                  "type": "quantitative",
+                  "title": "Population Density"
+                }
+              ]
+            },
+            "mark": {
+              "type": "geoshape",
+              "stroke": "#000000",
+              "strokeWidth": 0.5
+            },
+            "selection": {"click": {"fields": ["state"], "type": "single"}}
+          }
+        ],
+        "width": 300,
+        "height": 100,
+        "resolve": {
+          "legend": {"color": "independent"},
+          "scale": {"color": "independent"}
+        }
+      },
+      {
+        "title": "Population of States based on Age and Ethnicity",
+        "data": {
+          "name": "age_ethnic",
+          "url": "https://ason0008.github.io/FIT3179/data/age_ethnic.json"
+        },
+        "transform":[{"filter": {"selection": "click"}}],
+        "encoding": {
+          "x": {
+            "field": "ethnicity",
+            "type": "nominal",
+            "title": "Ethnicity",
+            "scale": {"domain": ["Bumiputera", "Chinese", "Indians", "Others", "Non-Malaysian Citizens"]},
+            "axis": {"labelAngle": -45}
+          },
+          "y": {
+            "field": "age",
+            "type": "nominal",
+            "title": "Age",
+            "scale": {"domain": ["85+", "80 - 84", "75 - 79", "70 - 74", "65 - 69", "60 - 64", "55 - 59", "50 - 54", "45 - 49", "40 - 44", "35 - 39", "30 - 34", "25 - 29", "20 - 24",  "15 - 19", "10 - 14", "5 - 9", "0 - 4"]}
+          },
+          "color": {
+            "aggregate": "sum",
+            "field": "population",
+            "type": "quantitative",
+            "scale": {"scheme": "redpurple"},
+            "legend": {"title": "Population", "direction": "horizontal"}
+          }
+        },
+        "mark": "rect",
+        "width": 200,
+        "height": 300
+      },
+      {
+        "title": "Population of States based on Age and Gender",
+        "data": {
+          "name": "age_gender",
+          "url": "https://ason0008.github.io/FIT3179/data/age_gender.json"
+        },
+        "transform": [{"filter": {"selection": "click"}}],
+        "hconcat": [
+          {
+            "title": "Female",
+            "transform": [{"filter": {"field": "gender", "equal": "female"}}],
+            "encoding": {
+                "x": {
+                    "aggregate": "sum",
+                    "field": "population",
+                    "type": "quantitative",
+                    "title": "Population",
+                    "axis": {"format": "s"},
+                    "sort": "descending"
+                },
+                "y": {
+                    "field": "age",
+                    "type": "nominal",
+                    "axis": null, 
+                    "sort": "descending"
+                },
+                "color": {
+                    "field": "gender",
+                    "scale": {"range": ["lightblue", "violet"]},
+                    "legend": null
+                }
+            },
+            "mark": "bar",
+            "width": 100,
+            "height": 200  
+          },
+          {
+            "encoding": {
+                "y": {
+                    "field": "age",
+                    "type": "ordinal",
+                    "axis": null,
+                    "scale": {"domain": ["85+", "80 - 84", "75 - 79", "70 - 74", "65 - 69", "60 - 64", "55 - 59", "50 - 54", "45 - 49", "40 - 44", "35 - 39", "30 - 34", "25 - 29", "20 - 24",  "15 - 19", "10 - 14", "5 - 9", "0 - 4"]}
+                },
+                "text": {
+                    "field": "age",
+                    "type": "ordinal"
+                }
+            },
+            "mark": {
+                "type": "text",
+                "align": "center"
+            },
+            "width": 30,
+            "view": {"stroke": null}
+          },
+          {
+            "title": "Male",
+            "transform": [{"filter": {"field": "gender", "equal": "male"}}],
+            "encoding": {
+                "x": {
+                    "aggregate": "sum",
+                    "field": "population",
+                    "type": "quantitative",
+                    "title": "Population",
+                    "axis": {"format": "s"}
+                },
+                "y": {
+                    "field": "age",
+                    "type": "nominal",
+                    "title": null,
+                    "axis": null,
+                    "sort": "descending"
+                },
+                "color": {
+                    "field": "gender",
+                    "legend": null
+                }
+            },
+            "mark": "bar",
+            "width": 100,
+            "height": 200            
+          }
+        ]
+      }
+    ],
+    "resolve": {
+      "legend": {"color": "independent"},
+      "scale": {"color": "independent"}
+    },
+    "config": {
+        "view": {"stroke": null},
+        "axis": {"grid": false}
+    }
+  }
