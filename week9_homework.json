@@ -1,0 +1,62 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "title": {
+        "text": "Population Density of States in Malaysia 2020",
+        "align": "center"
+    },
+    "data": {
+        "name": "malaysia_map",
+        "url": "https://ason0008.github.io/FIT3179/data/state_boundaries.json",
+        "format": {"property": "features"}
+    },
+    "transform": [{
+        "lookup": "properties.state",
+        "from": {
+            "data": {
+                "name": "state_population",
+                "url": "https://ason0008.github.io/FIT3179/data/state_population.json"
+            },
+            "key": "state",
+            "fields": ["state", "population_density"]
+        }
+    },
+    {
+        "calculate": "datum.population_density + 0.1", "as": "population_density"
+    }],
+    "encoding": {
+        "color": {
+            "condition": {
+                "selection": "click",
+                "field": "population_density",
+                "type": "quantitative",
+                "scale": {"type": "log", "scheme": "yellowgreenblue"},
+                "legend": {"title": "Population Density", "direction": "horizontal"}
+            },
+            "value": "lightgray"
+        },
+        "tooltip": [
+            {
+                "field": "state", 
+                "title": "State"
+            },
+            {
+                "field": "population_density",
+                "type": "quantitative",
+                "title": "Population Density"
+            }
+        ]
+    },
+    "mark": {
+        "type": "geoshape",
+        "stroke": "#000000",
+        "strokeWidth": 0.5
+    },
+    "selection": {"click": {"fields": ["state"], "type": "single"}},
+    "width": 500,
+    "height": 250,
+    "projection": {"type": "mercator"},
+    "config": {
+        "view": {"stroke": null},
+        "axis": {"grid": false}
+    }
+}
