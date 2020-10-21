@@ -1,0 +1,8642 @@
+[
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 67300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 63600
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 60200
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 59700
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 49500
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 60300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 64700
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 69700
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 50700
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 38100
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 36900
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 31400
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 24500
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 17100
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 12000
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 6800
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 3100
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 2700
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 27500
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 29800
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 42300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 44100
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 40400
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 49100
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 54800
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 60900
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 59300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 49300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 47800
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 43900
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 34700
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 27700
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 20900
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 12800
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 7300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 3300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 7400
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 7600
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 9600
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 11800
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 9700
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 13000
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 14500
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 14200
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 12200
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 10400
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 9600
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 10200
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 8100
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 5500
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 4100
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 2100
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 1300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 900
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 3300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 3400
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 1800
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 1300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 1700
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 1700
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 1200
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 1000
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 900
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 900
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 800
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 700
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 600
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 17400
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 10700
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 8200
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 33900
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 39400
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 31100
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 25700
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 20500
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 13300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 9000
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 6300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 3900
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1300
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 800
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 500
+    },
+    {
+      "state": "Federal Territory of Kuala Lumpur",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 600
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 7100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 6200
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 7500
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 6800
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 5900
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 6600
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 6900
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 9100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 5000
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 4200
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 3500
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 3000
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 2300
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 1400
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 700
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 500
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 200
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 300
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 300
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 400
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 700
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 700
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 700
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 700
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 800
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 800
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 700
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 600
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 600
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 700
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 600
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 500
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 300
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 200
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 700
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 800
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 700
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 800
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 400
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 700
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1000
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1400
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1000
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 900
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 700
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 600
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 400
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 200
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 200
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Labuan",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 11600
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 14900
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 10600
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 7200
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 9200
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 4900
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 5500
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 14300
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 8500
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 4300
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 3700
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 3600
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 2800
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 1000
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 300
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 300
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 1000
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 500
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 200
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 200
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 300
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 400
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 600
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 500
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 500
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 400
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 0
+    },
+    {
+      "state": "Federal Territory of Putrajaya",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 0
+    },
+    {
+      "state": "Johor",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 213300
+    },
+    {
+      "state": "Johor",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 192300
+    },
+    {
+      "state": "Johor",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 176900
+    },
+    {
+      "state": "Johor",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 192700
+    },
+    {
+      "state": "Johor",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 185100
+    },
+    {
+      "state": "Johor",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 165500
+    },
+    {
+      "state": "Johor",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 170000
+    },
+    {
+      "state": "Johor",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 163100
+    },
+    {
+      "state": "Johor",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 124900
+    },
+    {
+      "state": "Johor",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 112200
+    },
+    {
+      "state": "Johor",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 103000
+    },
+    {
+      "state": "Johor",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 93400
+    },
+    {
+      "state": "Johor",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 76200
+    },
+    {
+      "state": "Johor",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 56400
+    },
+    {
+      "state": "Johor",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 38600
+    },
+    {
+      "state": "Johor",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 21700
+    },
+    {
+      "state": "Johor",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 13200
+    },
+    {
+      "state": "Johor",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 11400
+    },
+    {
+      "state": "Johor",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 62000
+    },
+    {
+      "state": "Johor",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 71200
+    },
+    {
+      "state": "Johor",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 78100
+    },
+    {
+      "state": "Johor",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 90400
+    },
+    {
+      "state": "Johor",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 94600
+    },
+    {
+      "state": "Johor",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 88400
+    },
+    {
+      "state": "Johor",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 83800
+    },
+    {
+      "state": "Johor",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 83200
+    },
+    {
+      "state": "Johor",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 78000
+    },
+    {
+      "state": "Johor",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 75600
+    },
+    {
+      "state": "Johor",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 70600
+    },
+    {
+      "state": "Johor",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 63000
+    },
+    {
+      "state": "Johor",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 55000
+    },
+    {
+      "state": "Johor",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 42300
+    },
+    {
+      "state": "Johor",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 32700
+    },
+    {
+      "state": "Johor",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 20200
+    },
+    {
+      "state": "Johor",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 12900
+    },
+    {
+      "state": "Johor",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 7400
+    },
+    {
+      "state": "Johor",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 16500
+    },
+    {
+      "state": "Johor",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 17400
+    },
+    {
+      "state": "Johor",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 19700
+    },
+    {
+      "state": "Johor",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 22300
+    },
+    {
+      "state": "Johor",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 21700
+    },
+    {
+      "state": "Johor",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 20500
+    },
+    {
+      "state": "Johor",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 18500
+    },
+    {
+      "state": "Johor",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 21500
+    },
+    {
+      "state": "Johor",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 19500
+    },
+    {
+      "state": "Johor",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 16100
+    },
+    {
+      "state": "Johor",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 14200
+    },
+    {
+      "state": "Johor",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 12100
+    },
+    {
+      "state": "Johor",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 9800
+    },
+    {
+      "state": "Johor",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 6400
+    },
+    {
+      "state": "Johor",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 3800
+    },
+    {
+      "state": "Johor",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 2100
+    },
+    {
+      "state": "Johor",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 1000
+    },
+    {
+      "state": "Johor",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 1300
+    },
+    {
+      "state": "Johor",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 3100
+    },
+    {
+      "state": "Johor",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 4000
+    },
+    {
+      "state": "Johor",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 3300
+    },
+    {
+      "state": "Johor",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 2200
+    },
+    {
+      "state": "Johor",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 1500
+    },
+    {
+      "state": "Johor",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 800
+    },
+    {
+      "state": "Johor",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Johor",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Johor",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 700
+    },
+    {
+      "state": "Johor",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 500
+    },
+    {
+      "state": "Johor",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Johor",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Johor",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Johor",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Johor",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Johor",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Johor",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Johor",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Johor",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 6700
+    },
+    {
+      "state": "Johor",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 9000
+    },
+    {
+      "state": "Johor",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 8400
+    },
+    {
+      "state": "Johor",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 14600
+    },
+    {
+      "state": "Johor",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 59500
+    },
+    {
+      "state": "Johor",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 60300
+    },
+    {
+      "state": "Johor",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 42000
+    },
+    {
+      "state": "Johor",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 29400
+    },
+    {
+      "state": "Johor",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 20200
+    },
+    {
+      "state": "Johor",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 14900
+    },
+    {
+      "state": "Johor",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 10500
+    },
+    {
+      "state": "Johor",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 7900
+    },
+    {
+      "state": "Johor",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 5400
+    },
+    {
+      "state": "Johor",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 3600
+    },
+    {
+      "state": "Johor",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2300
+    },
+    {
+      "state": "Johor",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1300
+    },
+    {
+      "state": "Johor",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1400
+    },
+    {
+      "state": "Johor",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1500
+    },
+    {
+      "state": "Kedah",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 156500
+    },
+    {
+      "state": "Kedah",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 155500
+    },
+    {
+      "state": "Kedah",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 142200
+    },
+    {
+      "state": "Kedah",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 153500
+    },
+    {
+      "state": "Kedah",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 171000
+    },
+    {
+      "state": "Kedah",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 146800
+    },
+    {
+      "state": "Kedah",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 115200
+    },
+    {
+      "state": "Kedah",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 102200
+    },
+    {
+      "state": "Kedah",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 89800
+    },
+    {
+      "state": "Kedah",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 88600
+    },
+    {
+      "state": "Kedah",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 84600
+    },
+    {
+      "state": "Kedah",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 78600
+    },
+    {
+      "state": "Kedah",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 66800
+    },
+    {
+      "state": "Kedah",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 52000
+    },
+    {
+      "state": "Kedah",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 35300
+    },
+    {
+      "state": "Kedah",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 20000
+    },
+    {
+      "state": "Kedah",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 13400
+    },
+    {
+      "state": "Kedah",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 8900
+    },
+    {
+      "state": "Kedah",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 11300
+    },
+    {
+      "state": "Kedah",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 14100
+    },
+    {
+      "state": "Kedah",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 16600
+    },
+    {
+      "state": "Kedah",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 19300
+    },
+    {
+      "state": "Kedah",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 22500
+    },
+    {
+      "state": "Kedah",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 22500
+    },
+    {
+      "state": "Kedah",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 19000
+    },
+    {
+      "state": "Kedah",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 14700
+    },
+    {
+      "state": "Kedah",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 16100
+    },
+    {
+      "state": "Kedah",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 16300
+    },
+    {
+      "state": "Kedah",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 17000
+    },
+    {
+      "state": "Kedah",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 17300
+    },
+    {
+      "state": "Kedah",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 16300
+    },
+    {
+      "state": "Kedah",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 13100
+    },
+    {
+      "state": "Kedah",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 10700
+    },
+    {
+      "state": "Kedah",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 6400
+    },
+    {
+      "state": "Kedah",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 4600
+    },
+    {
+      "state": "Kedah",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 2600
+    },
+    {
+      "state": "Kedah",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 6600
+    },
+    {
+      "state": "Kedah",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 8400
+    },
+    {
+      "state": "Kedah",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 11000
+    },
+    {
+      "state": "Kedah",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 12200
+    },
+    {
+      "state": "Kedah",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 14800
+    },
+    {
+      "state": "Kedah",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 12900
+    },
+    {
+      "state": "Kedah",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 12000
+    },
+    {
+      "state": "Kedah",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 10200
+    },
+    {
+      "state": "Kedah",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 9500
+    },
+    {
+      "state": "Kedah",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 8100
+    },
+    {
+      "state": "Kedah",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 8300
+    },
+    {
+      "state": "Kedah",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 8200
+    },
+    {
+      "state": "Kedah",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 7100
+    },
+    {
+      "state": "Kedah",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 5000
+    },
+    {
+      "state": "Kedah",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 3100
+    },
+    {
+      "state": "Kedah",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 1400
+    },
+    {
+      "state": "Kedah",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 1000
+    },
+    {
+      "state": "Kedah",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 900
+    },
+    {
+      "state": "Kedah",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 2100
+    },
+    {
+      "state": "Kedah",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 2400
+    },
+    {
+      "state": "Kedah",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 1600
+    },
+    {
+      "state": "Kedah",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 1800
+    },
+    {
+      "state": "Kedah",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 2300
+    },
+    {
+      "state": "Kedah",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 1500
+    },
+    {
+      "state": "Kedah",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 2000
+    },
+    {
+      "state": "Kedah",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 1600
+    },
+    {
+      "state": "Kedah",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 1200
+    },
+    {
+      "state": "Kedah",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 1200
+    },
+    {
+      "state": "Kedah",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 1200
+    },
+    {
+      "state": "Kedah",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 1100
+    },
+    {
+      "state": "Kedah",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 900
+    },
+    {
+      "state": "Kedah",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 700
+    },
+    {
+      "state": "Kedah",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 500
+    },
+    {
+      "state": "Kedah",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Kedah",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Kedah",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Kedah",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2900
+    },
+    {
+      "state": "Kedah",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1800
+    },
+    {
+      "state": "Kedah",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1100
+    },
+    {
+      "state": "Kedah",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 6000
+    },
+    {
+      "state": "Kedah",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 16200
+    },
+    {
+      "state": "Kedah",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 19700
+    },
+    {
+      "state": "Kedah",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 11700
+    },
+    {
+      "state": "Kedah",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 8500
+    },
+    {
+      "state": "Kedah",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 5700
+    },
+    {
+      "state": "Kedah",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2800
+    },
+    {
+      "state": "Kedah",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1900
+    },
+    {
+      "state": "Kedah",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1100
+    },
+    {
+      "state": "Kedah",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 600
+    },
+    {
+      "state": "Kedah",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 300
+    },
+    {
+      "state": "Kedah",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 200
+    },
+    {
+      "state": "Kedah",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 200
+    },
+    {
+      "state": "Kedah",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Kedah",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 200
+    },
+    {
+      "state": "Kelantan",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 186500
+    },
+    {
+      "state": "Kelantan",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 189800
+    },
+    {
+      "state": "Kelantan",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 169800
+    },
+    {
+      "state": "Kelantan",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 176100
+    },
+    {
+      "state": "Kelantan",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 181500
+    },
+    {
+      "state": "Kelantan",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 184600
+    },
+    {
+      "state": "Kelantan",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 115600
+    },
+    {
+      "state": "Kelantan",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 96400
+    },
+    {
+      "state": "Kelantan",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 80000
+    },
+    {
+      "state": "Kelantan",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 78000
+    },
+    {
+      "state": "Kelantan",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 77600
+    },
+    {
+      "state": "Kelantan",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 74300
+    },
+    {
+      "state": "Kelantan",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 62200
+    },
+    {
+      "state": "Kelantan",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 45900
+    },
+    {
+      "state": "Kelantan",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 34000
+    },
+    {
+      "state": "Kelantan",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 18100
+    },
+    {
+      "state": "Kelantan",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 10500
+    },
+    {
+      "state": "Kelantan",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 8300
+    },
+    {
+      "state": "Kelantan",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 2400
+    },
+    {
+      "state": "Kelantan",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 3000
+    },
+    {
+      "state": "Kelantan",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 3600
+    },
+    {
+      "state": "Kelantan",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 4000
+    },
+    {
+      "state": "Kelantan",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 4500
+    },
+    {
+      "state": "Kelantan",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 6600
+    },
+    {
+      "state": "Kelantan",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 4300
+    },
+    {
+      "state": "Kelantan",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 4100
+    },
+    {
+      "state": "Kelantan",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 3200
+    },
+    {
+      "state": "Kelantan",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 2900
+    },
+    {
+      "state": "Kelantan",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 3700
+    },
+    {
+      "state": "Kelantan",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 3700
+    },
+    {
+      "state": "Kelantan",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 3700
+    },
+    {
+      "state": "Kelantan",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 3000
+    },
+    {
+      "state": "Kelantan",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 2100
+    },
+    {
+      "state": "Kelantan",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 1300
+    },
+    {
+      "state": "Kelantan",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 800
+    },
+    {
+      "state": "Kelantan",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 500
+    },
+    {
+      "state": "Kelantan",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Kelantan",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Kelantan",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 500
+    },
+    {
+      "state": "Kelantan",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 500
+    },
+    {
+      "state": "Kelantan",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 400
+    },
+    {
+      "state": "Kelantan",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 500
+    },
+    {
+      "state": "Kelantan",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 700
+    },
+    {
+      "state": "Kelantan",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 300
+    },
+    {
+      "state": "Kelantan",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 300
+    },
+    {
+      "state": "Kelantan",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Kelantan",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Kelantan",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 300
+    },
+    {
+      "state": "Kelantan",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Kelantan",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Kelantan",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Kelantan",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Kelantan",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Kelantan",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Kelantan",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 1000
+    },
+    {
+      "state": "Kelantan",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 1400
+    },
+    {
+      "state": "Kelantan",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 1300
+    },
+    {
+      "state": "Kelantan",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 1300
+    },
+    {
+      "state": "Kelantan",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 800
+    },
+    {
+      "state": "Kelantan",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 900
+    },
+    {
+      "state": "Kelantan",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 900
+    },
+    {
+      "state": "Kelantan",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 800
+    },
+    {
+      "state": "Kelantan",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 600
+    },
+    {
+      "state": "Kelantan",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 500
+    },
+    {
+      "state": "Kelantan",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 500
+    },
+    {
+      "state": "Kelantan",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 500
+    },
+    {
+      "state": "Kelantan",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Kelantan",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Kelantan",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Kelantan",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Kelantan",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Kelantan",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Kelantan",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2000
+    },
+    {
+      "state": "Kelantan",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1200
+    },
+    {
+      "state": "Kelantan",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 900
+    },
+    {
+      "state": "Kelantan",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2800
+    },
+    {
+      "state": "Kelantan",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 5700
+    },
+    {
+      "state": "Kelantan",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 7800
+    },
+    {
+      "state": "Kelantan",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 5900
+    },
+    {
+      "state": "Kelantan",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 4900
+    },
+    {
+      "state": "Kelantan",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 4000
+    },
+    {
+      "state": "Kelantan",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2900
+    },
+    {
+      "state": "Kelantan",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2200
+    },
+    {
+      "state": "Kelantan",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1500
+    },
+    {
+      "state": "Kelantan",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 900
+    },
+    {
+      "state": "Kelantan",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 400
+    },
+    {
+      "state": "Kelantan",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 300
+    },
+    {
+      "state": "Kelantan",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Kelantan",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Kelantan",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Melaka",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 58000
+    },
+    {
+      "state": "Melaka",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 53800
+    },
+    {
+      "state": "Melaka",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 50800
+    },
+    {
+      "state": "Melaka",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 52100
+    },
+    {
+      "state": "Melaka",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 56500
+    },
+    {
+      "state": "Melaka",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 67000
+    },
+    {
+      "state": "Melaka",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 52700
+    },
+    {
+      "state": "Melaka",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 43100
+    },
+    {
+      "state": "Melaka",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 31700
+    },
+    {
+      "state": "Melaka",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 29300
+    },
+    {
+      "state": "Melaka",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 30400
+    },
+    {
+      "state": "Melaka",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 26900
+    },
+    {
+      "state": "Melaka",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 22000
+    },
+    {
+      "state": "Melaka",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 16300
+    },
+    {
+      "state": "Melaka",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 12500
+    },
+    {
+      "state": "Melaka",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 6900
+    },
+    {
+      "state": "Melaka",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 3900
+    },
+    {
+      "state": "Melaka",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 3500
+    },
+    {
+      "state": "Melaka",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 9300
+    },
+    {
+      "state": "Melaka",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 11700
+    },
+    {
+      "state": "Melaka",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 13400
+    },
+    {
+      "state": "Melaka",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 15600
+    },
+    {
+      "state": "Melaka",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 17200
+    },
+    {
+      "state": "Melaka",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 20300
+    },
+    {
+      "state": "Melaka",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 16200
+    },
+    {
+      "state": "Melaka",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 14700
+    },
+    {
+      "state": "Melaka",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 12300
+    },
+    {
+      "state": "Melaka",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 12900
+    },
+    {
+      "state": "Melaka",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 14200
+    },
+    {
+      "state": "Melaka",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 15600
+    },
+    {
+      "state": "Melaka",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 12900
+    },
+    {
+      "state": "Melaka",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 10900
+    },
+    {
+      "state": "Melaka",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 9100
+    },
+    {
+      "state": "Melaka",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 5500
+    },
+    {
+      "state": "Melaka",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 3600
+    },
+    {
+      "state": "Melaka",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 2200
+    },
+    {
+      "state": "Melaka",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 2800
+    },
+    {
+      "state": "Melaka",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 3500
+    },
+    {
+      "state": "Melaka",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 3900
+    },
+    {
+      "state": "Melaka",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 4100
+    },
+    {
+      "state": "Melaka",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 4300
+    },
+    {
+      "state": "Melaka",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 4900
+    },
+    {
+      "state": "Melaka",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 4900
+    },
+    {
+      "state": "Melaka",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 3700
+    },
+    {
+      "state": "Melaka",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 3400
+    },
+    {
+      "state": "Melaka",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 2800
+    },
+    {
+      "state": "Melaka",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 3200
+    },
+    {
+      "state": "Melaka",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 2800
+    },
+    {
+      "state": "Melaka",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 2700
+    },
+    {
+      "state": "Melaka",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 1800
+    },
+    {
+      "state": "Melaka",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 1300
+    },
+    {
+      "state": "Melaka",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 700
+    },
+    {
+      "state": "Melaka",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 400
+    },
+    {
+      "state": "Melaka",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 400
+    },
+    {
+      "state": "Melaka",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 600
+    },
+    {
+      "state": "Melaka",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 700
+    },
+    {
+      "state": "Melaka",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 800
+    },
+    {
+      "state": "Melaka",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 700
+    },
+    {
+      "state": "Melaka",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 1000
+    },
+    {
+      "state": "Melaka",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 500
+    },
+    {
+      "state": "Melaka",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Melaka",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Melaka",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Melaka",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Melaka",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Melaka",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Melaka",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Melaka",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Melaka",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Melaka",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Melaka",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Melaka",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Melaka",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 800
+    },
+    {
+      "state": "Melaka",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 600
+    },
+    {
+      "state": "Melaka",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 300
+    },
+    {
+      "state": "Melaka",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 3100
+    },
+    {
+      "state": "Melaka",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 9500
+    },
+    {
+      "state": "Melaka",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 9700
+    },
+    {
+      "state": "Melaka",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 5400
+    },
+    {
+      "state": "Melaka",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 3500
+    },
+    {
+      "state": "Melaka",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2300
+    },
+    {
+      "state": "Melaka",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1300
+    },
+    {
+      "state": "Melaka",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1100
+    },
+    {
+      "state": "Melaka",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 900
+    },
+    {
+      "state": "Melaka",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 600
+    },
+    {
+      "state": "Melaka",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 400
+    },
+    {
+      "state": "Melaka",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 200
+    },
+    {
+      "state": "Melaka",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Melaka",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Melaka",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 200
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 66900
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 59500
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 53100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 61500
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 60100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 60900
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 57800
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 42700
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 34900
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 34000
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 31700
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 30300
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 27400
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 21400
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 12400
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 7000
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 4100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 2900
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 10200
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 12800
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 15300
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 17000
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 18700
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 20000
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 18200
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 14300
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 13900
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 13300
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 14000
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 14700
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 14000
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 11700
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 9400
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 6100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 4100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 2100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 9100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 10800
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 12300
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 14400
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 14500
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 14300
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 10700
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 10500
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 9800
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 9300
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 8500
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 8800
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 7400
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 5500
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 3700
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 2000
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 1100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 1200
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 600
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 600
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 800
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1600
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1200
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 500
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 8600
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 18000
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 14800
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 10600
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 7500
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 3700
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1800
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1000
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 600
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 300
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Negeri Sembilan",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Pahang",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 119300
+    },
+    {
+      "state": "Pahang",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 116900
+    },
+    {
+      "state": "Pahang",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 118500
+    },
+    {
+      "state": "Pahang",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 117600
+    },
+    {
+      "state": "Pahang",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 120700
+    },
+    {
+      "state": "Pahang",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 121200
+    },
+    {
+      "state": "Pahang",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 100200
+    },
+    {
+      "state": "Pahang",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 97100
+    },
+    {
+      "state": "Pahang",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 66700
+    },
+    {
+      "state": "Pahang",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 60200
+    },
+    {
+      "state": "Pahang",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 56200
+    },
+    {
+      "state": "Pahang",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 52500
+    },
+    {
+      "state": "Pahang",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 45300
+    },
+    {
+      "state": "Pahang",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 34600
+    },
+    {
+      "state": "Pahang",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 25800
+    },
+    {
+      "state": "Pahang",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 12500
+    },
+    {
+      "state": "Pahang",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 7900
+    },
+    {
+      "state": "Pahang",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 6500
+    },
+    {
+      "state": "Pahang",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 9100
+    },
+    {
+      "state": "Pahang",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 11900
+    },
+    {
+      "state": "Pahang",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 17400
+    },
+    {
+      "state": "Pahang",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 18900
+    },
+    {
+      "state": "Pahang",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 19400
+    },
+    {
+      "state": "Pahang",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 20900
+    },
+    {
+      "state": "Pahang",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 16200
+    },
+    {
+      "state": "Pahang",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 16800
+    },
+    {
+      "state": "Pahang",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 13700
+    },
+    {
+      "state": "Pahang",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 12800
+    },
+    {
+      "state": "Pahang",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 14300
+    },
+    {
+      "state": "Pahang",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 15600
+    },
+    {
+      "state": "Pahang",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 14100
+    },
+    {
+      "state": "Pahang",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 10700
+    },
+    {
+      "state": "Pahang",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 9500
+    },
+    {
+      "state": "Pahang",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 5500
+    },
+    {
+      "state": "Pahang",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 3600
+    },
+    {
+      "state": "Pahang",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 2200
+    },
+    {
+      "state": "Pahang",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 3200
+    },
+    {
+      "state": "Pahang",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 4300
+    },
+    {
+      "state": "Pahang",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 5700
+    },
+    {
+      "state": "Pahang",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 6200
+    },
+    {
+      "state": "Pahang",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 6200
+    },
+    {
+      "state": "Pahang",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 6800
+    },
+    {
+      "state": "Pahang",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 5900
+    },
+    {
+      "state": "Pahang",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 7000
+    },
+    {
+      "state": "Pahang",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 4000
+    },
+    {
+      "state": "Pahang",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 3700
+    },
+    {
+      "state": "Pahang",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 3500
+    },
+    {
+      "state": "Pahang",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 3600
+    },
+    {
+      "state": "Pahang",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 3000
+    },
+    {
+      "state": "Pahang",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 2200
+    },
+    {
+      "state": "Pahang",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 1600
+    },
+    {
+      "state": "Pahang",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 800
+    },
+    {
+      "state": "Pahang",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 600
+    },
+    {
+      "state": "Pahang",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 400
+    },
+    {
+      "state": "Pahang",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 1000
+    },
+    {
+      "state": "Pahang",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 800
+    },
+    {
+      "state": "Pahang",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 800
+    },
+    {
+      "state": "Pahang",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 600
+    },
+    {
+      "state": "Pahang",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 800
+    },
+    {
+      "state": "Pahang",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 900
+    },
+    {
+      "state": "Pahang",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 600
+    },
+    {
+      "state": "Pahang",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Pahang",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Pahang",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Pahang",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Pahang",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Pahang",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Pahang",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Pahang",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Pahang",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Pahang",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Pahang",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Pahang",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 3100
+    },
+    {
+      "state": "Pahang",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2300
+    },
+    {
+      "state": "Pahang",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1300
+    },
+    {
+      "state": "Pahang",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 4400
+    },
+    {
+      "state": "Pahang",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 14800
+    },
+    {
+      "state": "Pahang",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 21000
+    },
+    {
+      "state": "Pahang",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 15400
+    },
+    {
+      "state": "Pahang",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 11100
+    },
+    {
+      "state": "Pahang",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 6600
+    },
+    {
+      "state": "Pahang",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 3700
+    },
+    {
+      "state": "Pahang",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2500
+    },
+    {
+      "state": "Pahang",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1900
+    },
+    {
+      "state": "Pahang",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1000
+    },
+    {
+      "state": "Pahang",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 500
+    },
+    {
+      "state": "Pahang",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 500
+    },
+    {
+      "state": "Pahang",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 200
+    },
+    {
+      "state": "Pahang",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 200
+    },
+    {
+      "state": "Pahang",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 500
+    },
+    {
+      "state": "Penang",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 63900
+    },
+    {
+      "state": "Penang",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 62600
+    },
+    {
+      "state": "Penang",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 62600
+    },
+    {
+      "state": "Penang",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 62400
+    },
+    {
+      "state": "Penang",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 70700
+    },
+    {
+      "state": "Penang",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 73000
+    },
+    {
+      "state": "Penang",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 73800
+    },
+    {
+      "state": "Penang",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 68100
+    },
+    {
+      "state": "Penang",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 49200
+    },
+    {
+      "state": "Penang",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 44900
+    },
+    {
+      "state": "Penang",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 38400
+    },
+    {
+      "state": "Penang",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 31800
+    },
+    {
+      "state": "Penang",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 26200
+    },
+    {
+      "state": "Penang",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 19500
+    },
+    {
+      "state": "Penang",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 13100
+    },
+    {
+      "state": "Penang",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 7300
+    },
+    {
+      "state": "Penang",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 4000
+    },
+    {
+      "state": "Penang",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 2600
+    },
+    {
+      "state": "Penang",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 29700
+    },
+    {
+      "state": "Penang",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 36200
+    },
+    {
+      "state": "Penang",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 38200
+    },
+    {
+      "state": "Penang",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 45600
+    },
+    {
+      "state": "Penang",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 49700
+    },
+    {
+      "state": "Penang",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 54200
+    },
+    {
+      "state": "Penang",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 47400
+    },
+    {
+      "state": "Penang",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 53200
+    },
+    {
+      "state": "Penang",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 50500
+    },
+    {
+      "state": "Penang",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 51700
+    },
+    {
+      "state": "Penang",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 52000
+    },
+    {
+      "state": "Penang",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 46500
+    },
+    {
+      "state": "Penang",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 42400
+    },
+    {
+      "state": "Penang",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 34600
+    },
+    {
+      "state": "Penang",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 28600
+    },
+    {
+      "state": "Penang",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 17100
+    },
+    {
+      "state": "Penang",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 11400
+    },
+    {
+      "state": "Penang",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 5100
+    },
+    {
+      "state": "Penang",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 8800
+    },
+    {
+      "state": "Penang",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 10400
+    },
+    {
+      "state": "Penang",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 12200
+    },
+    {
+      "state": "Penang",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 13900
+    },
+    {
+      "state": "Penang",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 14100
+    },
+    {
+      "state": "Penang",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 14200
+    },
+    {
+      "state": "Penang",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 13000
+    },
+    {
+      "state": "Penang",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 13600
+    },
+    {
+      "state": "Penang",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 11500
+    },
+    {
+      "state": "Penang",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 11600
+    },
+    {
+      "state": "Penang",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 10700
+    },
+    {
+      "state": "Penang",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 10200
+    },
+    {
+      "state": "Penang",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 8600
+    },
+    {
+      "state": "Penang",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 6400
+    },
+    {
+      "state": "Penang",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 4200
+    },
+    {
+      "state": "Penang",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 1900
+    },
+    {
+      "state": "Penang",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 1000
+    },
+    {
+      "state": "Penang",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 800
+    },
+    {
+      "state": "Penang",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Penang",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Penang",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 500
+    },
+    {
+      "state": "Penang",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Penang",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 600
+    },
+    {
+      "state": "Penang",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 500
+    },
+    {
+      "state": "Penang",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Penang",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Penang",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Penang",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Penang",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Penang",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Penang",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Penang",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Penang",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Penang",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Penang",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Penang",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Penang",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 4800
+    },
+    {
+      "state": "Penang",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2300
+    },
+    {
+      "state": "Penang",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 600
+    },
+    {
+      "state": "Penang",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 5500
+    },
+    {
+      "state": "Penang",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 29900
+    },
+    {
+      "state": "Penang",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 35500
+    },
+    {
+      "state": "Penang",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 21100
+    },
+    {
+      "state": "Penang",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 13000
+    },
+    {
+      "state": "Penang",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 7800
+    },
+    {
+      "state": "Penang",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 3900
+    },
+    {
+      "state": "Penang",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2800
+    },
+    {
+      "state": "Penang",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2000
+    },
+    {
+      "state": "Penang",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1600
+    },
+    {
+      "state": "Penang",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 800
+    },
+    {
+      "state": "Penang",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 500
+    },
+    {
+      "state": "Penang",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 300
+    },
+    {
+      "state": "Penang",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 300
+    },
+    {
+      "state": "Penang",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 300
+    },
+    {
+      "state": "Perak",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 126800
+    },
+    {
+      "state": "Perak",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 119700
+    },
+    {
+      "state": "Perak",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 115600
+    },
+    {
+      "state": "Perak",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 138300
+    },
+    {
+      "state": "Perak",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 142500
+    },
+    {
+      "state": "Perak",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 138300
+    },
+    {
+      "state": "Perak",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 111800
+    },
+    {
+      "state": "Perak",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 88700
+    },
+    {
+      "state": "Perak",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 72800
+    },
+    {
+      "state": "Perak",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 68800
+    },
+    {
+      "state": "Perak",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 69300
+    },
+    {
+      "state": "Perak",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 69400
+    },
+    {
+      "state": "Perak",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 60700
+    },
+    {
+      "state": "Perak",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 48200
+    },
+    {
+      "state": "Perak",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 33700
+    },
+    {
+      "state": "Perak",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 18300
+    },
+    {
+      "state": "Perak",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 13100
+    },
+    {
+      "state": "Perak",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 10100
+    },
+    {
+      "state": "Perak",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 25100
+    },
+    {
+      "state": "Perak",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 34800
+    },
+    {
+      "state": "Perak",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 40400
+    },
+    {
+      "state": "Perak",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 52800
+    },
+    {
+      "state": "Perak",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 60200
+    },
+    {
+      "state": "Perak",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 60500
+    },
+    {
+      "state": "Perak",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 51700
+    },
+    {
+      "state": "Perak",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 33800
+    },
+    {
+      "state": "Perak",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 36000
+    },
+    {
+      "state": "Perak",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 39300
+    },
+    {
+      "state": "Perak",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 45400
+    },
+    {
+      "state": "Perak",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 45400
+    },
+    {
+      "state": "Perak",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 43600
+    },
+    {
+      "state": "Perak",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 39200
+    },
+    {
+      "state": "Perak",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 34900
+    },
+    {
+      "state": "Perak",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 23000
+    },
+    {
+      "state": "Perak",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 16000
+    },
+    {
+      "state": "Perak",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 8000
+    },
+    {
+      "state": "Perak",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 13600
+    },
+    {
+      "state": "Perak",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 15200
+    },
+    {
+      "state": "Perak",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 19500
+    },
+    {
+      "state": "Perak",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 24000
+    },
+    {
+      "state": "Perak",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 26800
+    },
+    {
+      "state": "Perak",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 23900
+    },
+    {
+      "state": "Perak",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 22200
+    },
+    {
+      "state": "Perak",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 17100
+    },
+    {
+      "state": "Perak",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 16300
+    },
+    {
+      "state": "Perak",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 15600
+    },
+    {
+      "state": "Perak",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 17100
+    },
+    {
+      "state": "Perak",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 16900
+    },
+    {
+      "state": "Perak",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 15800
+    },
+    {
+      "state": "Perak",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 11400
+    },
+    {
+      "state": "Perak",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 8900
+    },
+    {
+      "state": "Perak",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 4500
+    },
+    {
+      "state": "Perak",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 2800
+    },
+    {
+      "state": "Perak",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 2300
+    },
+    {
+      "state": "Perak",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 900
+    },
+    {
+      "state": "Perak",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 1000
+    },
+    {
+      "state": "Perak",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 1700
+    },
+    {
+      "state": "Perak",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 1400
+    },
+    {
+      "state": "Perak",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 1300
+    },
+    {
+      "state": "Perak",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 700
+    },
+    {
+      "state": "Perak",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 500
+    },
+    {
+      "state": "Perak",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Perak",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Perak",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Perak",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Perak",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Perak",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Perak",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Perak",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Perak",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Perak",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Perak",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Perak",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2700
+    },
+    {
+      "state": "Perak",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2000
+    },
+    {
+      "state": "Perak",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 900
+    },
+    {
+      "state": "Perak",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 5700
+    },
+    {
+      "state": "Perak",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 18100
+    },
+    {
+      "state": "Perak",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 20200
+    },
+    {
+      "state": "Perak",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 14700
+    },
+    {
+      "state": "Perak",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 10400
+    },
+    {
+      "state": "Perak",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 6500
+    },
+    {
+      "state": "Perak",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 3400
+    },
+    {
+      "state": "Perak",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2200
+    },
+    {
+      "state": "Perak",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1300
+    },
+    {
+      "state": "Perak",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 700
+    },
+    {
+      "state": "Perak",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 500
+    },
+    {
+      "state": "Perak",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 300
+    },
+    {
+      "state": "Perak",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 200
+    },
+    {
+      "state": "Perak",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Perak",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 200
+    },
+    {
+      "state": "Perlis",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 20000
+    },
+    {
+      "state": "Perlis",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 18900
+    },
+    {
+      "state": "Perlis",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 17700
+    },
+    {
+      "state": "Perlis",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 17500
+    },
+    {
+      "state": "Perlis",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 18200
+    },
+    {
+      "state": "Perlis",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 26000
+    },
+    {
+      "state": "Perlis",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 18600
+    },
+    {
+      "state": "Perlis",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 13800
+    },
+    {
+      "state": "Perlis",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 10000
+    },
+    {
+      "state": "Perlis",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 9100
+    },
+    {
+      "state": "Perlis",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 10700
+    },
+    {
+      "state": "Perlis",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 10700
+    },
+    {
+      "state": "Perlis",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 9300
+    },
+    {
+      "state": "Perlis",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 7500
+    },
+    {
+      "state": "Perlis",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 5400
+    },
+    {
+      "state": "Perlis",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 3200
+    },
+    {
+      "state": "Perlis",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 2200
+    },
+    {
+      "state": "Perlis",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 1400
+    },
+    {
+      "state": "Perlis",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 800
+    },
+    {
+      "state": "Perlis",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 1000
+    },
+    {
+      "state": "Perlis",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 1300
+    },
+    {
+      "state": "Perlis",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 1400
+    },
+    {
+      "state": "Perlis",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 1300
+    },
+    {
+      "state": "Perlis",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 1600
+    },
+    {
+      "state": "Perlis",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 1700
+    },
+    {
+      "state": "Perlis",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 1100
+    },
+    {
+      "state": "Perlis",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 800
+    },
+    {
+      "state": "Perlis",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 800
+    },
+    {
+      "state": "Perlis",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 1200
+    },
+    {
+      "state": "Perlis",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 1300
+    },
+    {
+      "state": "Perlis",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 1300
+    },
+    {
+      "state": "Perlis",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 1200
+    },
+    {
+      "state": "Perlis",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 900
+    },
+    {
+      "state": "Perlis",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 600
+    },
+    {
+      "state": "Perlis",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 300
+    },
+    {
+      "state": "Perlis",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 300
+    },
+    {
+      "state": "Perlis",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Perlis",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Perlis",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Perlis",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 300
+    },
+    {
+      "state": "Perlis",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Perlis",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 400
+    },
+    {
+      "state": "Perlis",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 400
+    },
+    {
+      "state": "Perlis",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Perlis",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Perlis",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Perlis",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Perlis",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Perlis",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Perlis",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Perlis",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Perlis",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Perlis",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Perlis",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Perlis",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 500
+    },
+    {
+      "state": "Perlis",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 500
+    },
+    {
+      "state": "Perlis",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Perlis",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Perlis",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Perlis",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Perlis",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Perlis",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Perlis",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Perlis",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Perlis",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Perlis",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Perlis",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Perlis",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Perlis",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Perlis",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Perlis",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Perlis",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Perlis",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 200
+    },
+    {
+      "state": "Perlis",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 200
+    },
+    {
+      "state": "Perlis",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Perlis",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 500
+    },
+    {
+      "state": "Perlis",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 900
+    },
+    {
+      "state": "Perlis",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1100
+    },
+    {
+      "state": "Perlis",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1000
+    },
+    {
+      "state": "Perlis",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 900
+    },
+    {
+      "state": "Perlis",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1100
+    },
+    {
+      "state": "Perlis",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 600
+    },
+    {
+      "state": "Perlis",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 400
+    },
+    {
+      "state": "Perlis",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 300
+    },
+    {
+      "state": "Perlis",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Perlis",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Perlis",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 0
+    },
+    {
+      "state": "Perlis",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 0
+    },
+    {
+      "state": "Perlis",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 0
+    },
+    {
+      "state": "Perlis",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Sabah",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 224900
+    },
+    {
+      "state": "Sabah",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 217000
+    },
+    {
+      "state": "Sabah",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 242900
+    },
+    {
+      "state": "Sabah",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 244300
+    },
+    {
+      "state": "Sabah",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 227900
+    },
+    {
+      "state": "Sabah",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 230100
+    },
+    {
+      "state": "Sabah",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 199100
+    },
+    {
+      "state": "Sabah",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 183800
+    },
+    {
+      "state": "Sabah",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 131300
+    },
+    {
+      "state": "Sabah",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 114000
+    },
+    {
+      "state": "Sabah",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 100800
+    },
+    {
+      "state": "Sabah",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 87900
+    },
+    {
+      "state": "Sabah",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 67500
+    },
+    {
+      "state": "Sabah",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 40900
+    },
+    {
+      "state": "Sabah",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 23200
+    },
+    {
+      "state": "Sabah",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 15300
+    },
+    {
+      "state": "Sabah",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 7500
+    },
+    {
+      "state": "Sabah",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 6100
+    },
+    {
+      "state": "Sabah",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 9800
+    },
+    {
+      "state": "Sabah",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 13000
+    },
+    {
+      "state": "Sabah",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 21400
+    },
+    {
+      "state": "Sabah",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 23000
+    },
+    {
+      "state": "Sabah",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 26400
+    },
+    {
+      "state": "Sabah",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 28600
+    },
+    {
+      "state": "Sabah",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 28300
+    },
+    {
+      "state": "Sabah",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 28700
+    },
+    {
+      "state": "Sabah",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 22600
+    },
+    {
+      "state": "Sabah",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 20200
+    },
+    {
+      "state": "Sabah",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 19200
+    },
+    {
+      "state": "Sabah",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 19600
+    },
+    {
+      "state": "Sabah",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 17000
+    },
+    {
+      "state": "Sabah",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 12700
+    },
+    {
+      "state": "Sabah",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 8500
+    },
+    {
+      "state": "Sabah",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 4900
+    },
+    {
+      "state": "Sabah",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 2700
+    },
+    {
+      "state": "Sabah",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 1000
+    },
+    {
+      "state": "Sabah",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 500
+    },
+    {
+      "state": "Sabah",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 800
+    },
+    {
+      "state": "Sabah",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 2200
+    },
+    {
+      "state": "Sabah",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 1900
+    },
+    {
+      "state": "Sabah",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 1000
+    },
+    {
+      "state": "Sabah",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 1000
+    },
+    {
+      "state": "Sabah",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 1200
+    },
+    {
+      "state": "Sabah",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 1100
+    },
+    {
+      "state": "Sabah",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 700
+    },
+    {
+      "state": "Sabah",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 700
+    },
+    {
+      "state": "Sabah",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 600
+    },
+    {
+      "state": "Sabah",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 600
+    },
+    {
+      "state": "Sabah",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 500
+    },
+    {
+      "state": "Sabah",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Sabah",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Sabah",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Sabah",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Sabah",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Sabah",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 13400
+    },
+    {
+      "state": "Sabah",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 15500
+    },
+    {
+      "state": "Sabah",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 13600
+    },
+    {
+      "state": "Sabah",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 13000
+    },
+    {
+      "state": "Sabah",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 12900
+    },
+    {
+      "state": "Sabah",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 11900
+    },
+    {
+      "state": "Sabah",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 9900
+    },
+    {
+      "state": "Sabah",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 9200
+    },
+    {
+      "state": "Sabah",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 7100
+    },
+    {
+      "state": "Sabah",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 4900
+    },
+    {
+      "state": "Sabah",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 4600
+    },
+    {
+      "state": "Sabah",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 4100
+    },
+    {
+      "state": "Sabah",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 3600
+    },
+    {
+      "state": "Sabah",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 2400
+    },
+    {
+      "state": "Sabah",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 1300
+    },
+    {
+      "state": "Sabah",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 800
+    },
+    {
+      "state": "Sabah",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Sabah",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 500
+    },
+    {
+      "state": "Sabah",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 47400
+    },
+    {
+      "state": "Sabah",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 45800
+    },
+    {
+      "state": "Sabah",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 31600
+    },
+    {
+      "state": "Sabah",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 154600
+    },
+    {
+      "state": "Sabah",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 189200
+    },
+    {
+      "state": "Sabah",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 216100
+    },
+    {
+      "state": "Sabah",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 131000
+    },
+    {
+      "state": "Sabah",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 102200
+    },
+    {
+      "state": "Sabah",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 68700
+    },
+    {
+      "state": "Sabah",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 43500
+    },
+    {
+      "state": "Sabah",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 27300
+    },
+    {
+      "state": "Sabah",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 15000
+    },
+    {
+      "state": "Sabah",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 9200
+    },
+    {
+      "state": "Sabah",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 6100
+    },
+    {
+      "state": "Sabah",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2800
+    },
+    {
+      "state": "Sabah",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1400
+    },
+    {
+      "state": "Sabah",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 900
+    },
+    {
+      "state": "Sabah",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1300
+    },
+    {
+      "state": "Sarawak",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 148000
+    },
+    {
+      "state": "Sarawak",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 159900
+    },
+    {
+      "state": "Sarawak",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 181100
+    },
+    {
+      "state": "Sarawak",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 197300
+    },
+    {
+      "state": "Sarawak",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 187100
+    },
+    {
+      "state": "Sarawak",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 185700
+    },
+    {
+      "state": "Sarawak",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 157400
+    },
+    {
+      "state": "Sarawak",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 137400
+    },
+    {
+      "state": "Sarawak",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 113100
+    },
+    {
+      "state": "Sarawak",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 115400
+    },
+    {
+      "state": "Sarawak",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 109900
+    },
+    {
+      "state": "Sarawak",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 96400
+    },
+    {
+      "state": "Sarawak",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 74300
+    },
+    {
+      "state": "Sarawak",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 55100
+    },
+    {
+      "state": "Sarawak",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 40600
+    },
+    {
+      "state": "Sarawak",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 26300
+    },
+    {
+      "state": "Sarawak",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 13700
+    },
+    {
+      "state": "Sarawak",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 14200
+    },
+    {
+      "state": "Sarawak",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 33000
+    },
+    {
+      "state": "Sarawak",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 39800
+    },
+    {
+      "state": "Sarawak",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 44200
+    },
+    {
+      "state": "Sarawak",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 53000
+    },
+    {
+      "state": "Sarawak",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 54000
+    },
+    {
+      "state": "Sarawak",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 57700
+    },
+    {
+      "state": "Sarawak",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 47700
+    },
+    {
+      "state": "Sarawak",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 42700
+    },
+    {
+      "state": "Sarawak",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 37700
+    },
+    {
+      "state": "Sarawak",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 38900
+    },
+    {
+      "state": "Sarawak",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 38100
+    },
+    {
+      "state": "Sarawak",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 36500
+    },
+    {
+      "state": "Sarawak",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 33300
+    },
+    {
+      "state": "Sarawak",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 28400
+    },
+    {
+      "state": "Sarawak",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 18300
+    },
+    {
+      "state": "Sarawak",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 12000
+    },
+    {
+      "state": "Sarawak",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 7200
+    },
+    {
+      "state": "Sarawak",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 5500
+    },
+    {
+      "state": "Sarawak",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 300
+    },
+    {
+      "state": "Sarawak",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 500
+    },
+    {
+      "state": "Sarawak",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 600
+    },
+    {
+      "state": "Sarawak",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 700
+    },
+    {
+      "state": "Sarawak",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 700
+    },
+    {
+      "state": "Sarawak",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 700
+    },
+    {
+      "state": "Sarawak",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 700
+    },
+    {
+      "state": "Sarawak",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 600
+    },
+    {
+      "state": "Sarawak",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 500
+    },
+    {
+      "state": "Sarawak",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 500
+    },
+    {
+      "state": "Sarawak",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 400
+    },
+    {
+      "state": "Sarawak",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 400
+    },
+    {
+      "state": "Sarawak",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 400
+    },
+    {
+      "state": "Sarawak",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 300
+    },
+    {
+      "state": "Sarawak",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Sarawak",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Sarawak",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Sarawak",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Sarawak",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 800
+    },
+    {
+      "state": "Sarawak",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 1000
+    },
+    {
+      "state": "Sarawak",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 2000
+    },
+    {
+      "state": "Sarawak",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 1400
+    },
+    {
+      "state": "Sarawak",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 900
+    },
+    {
+      "state": "Sarawak",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 400
+    },
+    {
+      "state": "Sarawak",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Sarawak",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Sarawak",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Sarawak",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Sarawak",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Sarawak",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Sarawak",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Sarawak",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Sarawak",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Sarawak",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Sarawak",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Sarawak",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Sarawak",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 5000
+    },
+    {
+      "state": "Sarawak",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 4400
+    },
+    {
+      "state": "Sarawak",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1000
+    },
+    {
+      "state": "Sarawak",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 7900
+    },
+    {
+      "state": "Sarawak",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 35400
+    },
+    {
+      "state": "Sarawak",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 41900
+    },
+    {
+      "state": "Sarawak",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 25100
+    },
+    {
+      "state": "Sarawak",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 18300
+    },
+    {
+      "state": "Sarawak",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 9900
+    },
+    {
+      "state": "Sarawak",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 4400
+    },
+    {
+      "state": "Sarawak",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2200
+    },
+    {
+      "state": "Sarawak",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1200
+    },
+    {
+      "state": "Sarawak",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 900
+    },
+    {
+      "state": "Sarawak",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 600
+    },
+    {
+      "state": "Sarawak",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 400
+    },
+    {
+      "state": "Sarawak",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 300
+    },
+    {
+      "state": "Sarawak",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 300
+    },
+    {
+      "state": "Sarawak",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 400
+    },
+    {
+      "state": "Selangor",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 360200
+    },
+    {
+      "state": "Selangor",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 349700
+    },
+    {
+      "state": "Selangor",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 313100
+    },
+    {
+      "state": "Selangor",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 299900
+    },
+    {
+      "state": "Selangor",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 263500
+    },
+    {
+      "state": "Selangor",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 290200
+    },
+    {
+      "state": "Selangor",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 380300
+    },
+    {
+      "state": "Selangor",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 339200
+    },
+    {
+      "state": "Selangor",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 249000
+    },
+    {
+      "state": "Selangor",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 203500
+    },
+    {
+      "state": "Selangor",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 164100
+    },
+    {
+      "state": "Selangor",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 134800
+    },
+    {
+      "state": "Selangor",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 99600
+    },
+    {
+      "state": "Selangor",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 68600
+    },
+    {
+      "state": "Selangor",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 44600
+    },
+    {
+      "state": "Selangor",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 19300
+    },
+    {
+      "state": "Selangor",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 9300
+    },
+    {
+      "state": "Selangor",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 8200
+    },
+    {
+      "state": "Selangor",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 74700
+    },
+    {
+      "state": "Selangor",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 96500
+    },
+    {
+      "state": "Selangor",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 97400
+    },
+    {
+      "state": "Selangor",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 106300
+    },
+    {
+      "state": "Selangor",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 106300
+    },
+    {
+      "state": "Selangor",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 111800
+    },
+    {
+      "state": "Selangor",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 142500
+    },
+    {
+      "state": "Selangor",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 159300
+    },
+    {
+      "state": "Selangor",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 130300
+    },
+    {
+      "state": "Selangor",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 121900
+    },
+    {
+      "state": "Selangor",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 107700
+    },
+    {
+      "state": "Selangor",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 93600
+    },
+    {
+      "state": "Selangor",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 76300
+    },
+    {
+      "state": "Selangor",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 57400
+    },
+    {
+      "state": "Selangor",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 46800
+    },
+    {
+      "state": "Selangor",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 24500
+    },
+    {
+      "state": "Selangor",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 14100
+    },
+    {
+      "state": "Selangor",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 6400
+    },
+    {
+      "state": "Selangor",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 38200
+    },
+    {
+      "state": "Selangor",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 46100
+    },
+    {
+      "state": "Selangor",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 52400
+    },
+    {
+      "state": "Selangor",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 55500
+    },
+    {
+      "state": "Selangor",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 57500
+    },
+    {
+      "state": "Selangor",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 63200
+    },
+    {
+      "state": "Selangor",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 72700
+    },
+    {
+      "state": "Selangor",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 72600
+    },
+    {
+      "state": "Selangor",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 55100
+    },
+    {
+      "state": "Selangor",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 49300
+    },
+    {
+      "state": "Selangor",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 44900
+    },
+    {
+      "state": "Selangor",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 40600
+    },
+    {
+      "state": "Selangor",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 31700
+    },
+    {
+      "state": "Selangor",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 23200
+    },
+    {
+      "state": "Selangor",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 16200
+    },
+    {
+      "state": "Selangor",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 7200
+    },
+    {
+      "state": "Selangor",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 4200
+    },
+    {
+      "state": "Selangor",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 3200
+    },
+    {
+      "state": "Selangor",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 10200
+    },
+    {
+      "state": "Selangor",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 10700
+    },
+    {
+      "state": "Selangor",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 5800
+    },
+    {
+      "state": "Selangor",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 3900
+    },
+    {
+      "state": "Selangor",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 3200
+    },
+    {
+      "state": "Selangor",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 4600
+    },
+    {
+      "state": "Selangor",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 6100
+    },
+    {
+      "state": "Selangor",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 4100
+    },
+    {
+      "state": "Selangor",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 1300
+    },
+    {
+      "state": "Selangor",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 600
+    },
+    {
+      "state": "Selangor",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 700
+    },
+    {
+      "state": "Selangor",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 500
+    },
+    {
+      "state": "Selangor",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Selangor",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Selangor",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Selangor",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Selangor",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Selangor",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Selangor",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 27200
+    },
+    {
+      "state": "Selangor",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 18600
+    },
+    {
+      "state": "Selangor",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2900
+    },
+    {
+      "state": "Selangor",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 16500
+    },
+    {
+      "state": "Selangor",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 113900
+    },
+    {
+      "state": "Selangor",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 131100
+    },
+    {
+      "state": "Selangor",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 96200
+    },
+    {
+      "state": "Selangor",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 67200
+    },
+    {
+      "state": "Selangor",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 42100
+    },
+    {
+      "state": "Selangor",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 25100
+    },
+    {
+      "state": "Selangor",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 16400
+    },
+    {
+      "state": "Selangor",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 9500
+    },
+    {
+      "state": "Selangor",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 6800
+    },
+    {
+      "state": "Selangor",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 3200
+    },
+    {
+      "state": "Selangor",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1600
+    },
+    {
+      "state": "Selangor",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 900
+    },
+    {
+      "state": "Selangor",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 800
+    },
+    {
+      "state": "Selangor",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1200
+    },
+    {
+      "state": "Terengganu",
+      "age": "0 - 4",
+      "ethnicity": "Bumiputera",
+      "population": 134800
+    },
+    {
+      "state": "Terengganu",
+      "age": "5 - 9",
+      "ethnicity": "Bumiputera",
+      "population": 125400
+    },
+    {
+      "state": "Terengganu",
+      "age": "10 - 14",
+      "ethnicity": "Bumiputera",
+      "population": 110900
+    },
+    {
+      "state": "Terengganu",
+      "age": "15 - 19",
+      "ethnicity": "Bumiputera",
+      "population": 115800
+    },
+    {
+      "state": "Terengganu",
+      "age": "20 - 24",
+      "ethnicity": "Bumiputera",
+      "population": 113600
+    },
+    {
+      "state": "Terengganu",
+      "age": "25 - 29",
+      "ethnicity": "Bumiputera",
+      "population": 112900
+    },
+    {
+      "state": "Terengganu",
+      "age": "30 - 34",
+      "ethnicity": "Bumiputera",
+      "population": 93700
+    },
+    {
+      "state": "Terengganu",
+      "age": "35 - 39",
+      "ethnicity": "Bumiputera",
+      "population": 70900
+    },
+    {
+      "state": "Terengganu",
+      "age": "40 - 44",
+      "ethnicity": "Bumiputera",
+      "population": 57100
+    },
+    {
+      "state": "Terengganu",
+      "age": "45 - 49",
+      "ethnicity": "Bumiputera",
+      "population": 53500
+    },
+    {
+      "state": "Terengganu",
+      "age": "50 - 54",
+      "ethnicity": "Bumiputera",
+      "population": 52000
+    },
+    {
+      "state": "Terengganu",
+      "age": "55 - 59",
+      "ethnicity": "Bumiputera",
+      "population": 48600
+    },
+    {
+      "state": "Terengganu",
+      "age": "60 - 64",
+      "ethnicity": "Bumiputera",
+      "population": 39300
+    },
+    {
+      "state": "Terengganu",
+      "age": "65 - 69",
+      "ethnicity": "Bumiputera",
+      "population": 27600
+    },
+    {
+      "state": "Terengganu",
+      "age": "70 - 74",
+      "ethnicity": "Bumiputera",
+      "population": 19100
+    },
+    {
+      "state": "Terengganu",
+      "age": "75 - 79",
+      "ethnicity": "Bumiputera",
+      "population": 11300
+    },
+    {
+      "state": "Terengganu",
+      "age": "80 - 84",
+      "ethnicity": "Bumiputera",
+      "population": 5400
+    },
+    {
+      "state": "Terengganu",
+      "age": "85+",
+      "ethnicity": "Bumiputera",
+      "population": 4700
+    },
+    {
+      "state": "Terengganu",
+      "age": "0 - 4",
+      "ethnicity": "Chinese",
+      "population": 1000
+    },
+    {
+      "state": "Terengganu",
+      "age": "5 - 9",
+      "ethnicity": "Chinese",
+      "population": 1300
+    },
+    {
+      "state": "Terengganu",
+      "age": "10 - 14",
+      "ethnicity": "Chinese",
+      "population": 1800
+    },
+    {
+      "state": "Terengganu",
+      "age": "15 - 19",
+      "ethnicity": "Chinese",
+      "population": 2200
+    },
+    {
+      "state": "Terengganu",
+      "age": "20 - 24",
+      "ethnicity": "Chinese",
+      "population": 2400
+    },
+    {
+      "state": "Terengganu",
+      "age": "25 - 29",
+      "ethnicity": "Chinese",
+      "population": 3200
+    },
+    {
+      "state": "Terengganu",
+      "age": "30 - 34",
+      "ethnicity": "Chinese",
+      "population": 2300
+    },
+    {
+      "state": "Terengganu",
+      "age": "35 - 39",
+      "ethnicity": "Chinese",
+      "population": 1500
+    },
+    {
+      "state": "Terengganu",
+      "age": "40 - 44",
+      "ethnicity": "Chinese",
+      "population": 1400
+    },
+    {
+      "state": "Terengganu",
+      "age": "45 - 49",
+      "ethnicity": "Chinese",
+      "population": 1600
+    },
+    {
+      "state": "Terengganu",
+      "age": "50 - 54",
+      "ethnicity": "Chinese",
+      "population": 1700
+    },
+    {
+      "state": "Terengganu",
+      "age": "55 - 59",
+      "ethnicity": "Chinese",
+      "population": 2000
+    },
+    {
+      "state": "Terengganu",
+      "age": "60 - 64",
+      "ethnicity": "Chinese",
+      "population": 2000
+    },
+    {
+      "state": "Terengganu",
+      "age": "65 - 69",
+      "ethnicity": "Chinese",
+      "population": 1500
+    },
+    {
+      "state": "Terengganu",
+      "age": "70 - 74",
+      "ethnicity": "Chinese",
+      "population": 1100
+    },
+    {
+      "state": "Terengganu",
+      "age": "75 - 79",
+      "ethnicity": "Chinese",
+      "population": 700
+    },
+    {
+      "state": "Terengganu",
+      "age": "80 - 84",
+      "ethnicity": "Chinese",
+      "population": 400
+    },
+    {
+      "state": "Terengganu",
+      "age": "85+",
+      "ethnicity": "Chinese",
+      "population": 200
+    },
+    {
+      "state": "Terengganu",
+      "age": "0 - 4",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Terengganu",
+      "age": "5 - 9",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Terengganu",
+      "age": "10 - 14",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Terengganu",
+      "age": "15 - 19",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Terengganu",
+      "age": "20 - 24",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Terengganu",
+      "age": "25 - 29",
+      "ethnicity": "Indians",
+      "population": 300
+    },
+    {
+      "state": "Terengganu",
+      "age": "30 - 34",
+      "ethnicity": "Indians",
+      "population": 300
+    },
+    {
+      "state": "Terengganu",
+      "age": "35 - 39",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Terengganu",
+      "age": "40 - 44",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Terengganu",
+      "age": "45 - 49",
+      "ethnicity": "Indians",
+      "population": 200
+    },
+    {
+      "state": "Terengganu",
+      "age": "50 - 54",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Terengganu",
+      "age": "55 - 59",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Terengganu",
+      "age": "60 - 64",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Terengganu",
+      "age": "65 - 69",
+      "ethnicity": "Indians",
+      "population": 100
+    },
+    {
+      "state": "Terengganu",
+      "age": "70 - 74",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Terengganu",
+      "age": "75 - 79",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Terengganu",
+      "age": "80 - 84",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Terengganu",
+      "age": "85+",
+      "ethnicity": "Indians",
+      "population": 0
+    },
+    {
+      "state": "Terengganu",
+      "age": "0 - 4",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Terengganu",
+      "age": "5 - 9",
+      "ethnicity": "Others",
+      "population": 500
+    },
+    {
+      "state": "Terengganu",
+      "age": "10 - 14",
+      "ethnicity": "Others",
+      "population": 800
+    },
+    {
+      "state": "Terengganu",
+      "age": "15 - 19",
+      "ethnicity": "Others",
+      "population": 800
+    },
+    {
+      "state": "Terengganu",
+      "age": "20 - 24",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Terengganu",
+      "age": "25 - 29",
+      "ethnicity": "Others",
+      "population": 200
+    },
+    {
+      "state": "Terengganu",
+      "age": "30 - 34",
+      "ethnicity": "Others",
+      "population": 300
+    },
+    {
+      "state": "Terengganu",
+      "age": "35 - 39",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Terengganu",
+      "age": "40 - 44",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Terengganu",
+      "age": "45 - 49",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Terengganu",
+      "age": "50 - 54",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Terengganu",
+      "age": "55 - 59",
+      "ethnicity": "Others",
+      "population": 100
+    },
+    {
+      "state": "Terengganu",
+      "age": "60 - 64",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Terengganu",
+      "age": "65 - 69",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Terengganu",
+      "age": "70 - 74",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Terengganu",
+      "age": "75 - 79",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Terengganu",
+      "age": "80 - 84",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Terengganu",
+      "age": "85+",
+      "ethnicity": "Others",
+      "population": 0
+    },
+    {
+      "state": "Terengganu",
+      "age": "0 - 4",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1200
+    },
+    {
+      "state": "Terengganu",
+      "age": "5 - 9",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 900
+    },
+    {
+      "state": "Terengganu",
+      "age": "10 - 14",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 700
+    },
+    {
+      "state": "Terengganu",
+      "age": "15 - 19",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1700
+    },
+    {
+      "state": "Terengganu",
+      "age": "20 - 24",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 4800
+    },
+    {
+      "state": "Terengganu",
+      "age": "25 - 29",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 4800
+    },
+    {
+      "state": "Terengganu",
+      "age": "30 - 34",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 4100
+    },
+    {
+      "state": "Terengganu",
+      "age": "35 - 39",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2900
+    },
+    {
+      "state": "Terengganu",
+      "age": "40 - 44",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 2200
+    },
+    {
+      "state": "Terengganu",
+      "age": "45 - 49",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1600
+    },
+    {
+      "state": "Terengganu",
+      "age": "50 - 54",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 1200
+    },
+    {
+      "state": "Terengganu",
+      "age": "55 - 59",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 800
+    },
+    {
+      "state": "Terengganu",
+      "age": "60 - 64",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 500
+    },
+    {
+      "state": "Terengganu",
+      "age": "65 - 69",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 300
+    },
+    {
+      "state": "Terengganu",
+      "age": "70 - 74",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 200
+    },
+    {
+      "state": "Terengganu",
+      "age": "75 - 79",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Terengganu",
+      "age": "80 - 84",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    },
+    {
+      "state": "Terengganu",
+      "age": "85+",
+      "ethnicity": "Non-Malaysian Citizens",
+      "population": 100
+    }
+]
