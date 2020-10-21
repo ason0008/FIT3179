@@ -1,0 +1,96 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "data": {
+        "name": "age_gender",
+        "url": "https://ason0008.github.io/FIT3179/data/age_gender_year.json"
+    },
+    "params": [{
+      "name": "year_selection",
+      "value": 2020,
+      "bind": {
+          "input": "range",
+          "min": 2011,
+          "max": 2020,
+          "step": 1
+        }
+    }],
+    "transform": [
+      {"filter": "datum.year == year_selection"}],
+    "hconcat": [
+        {
+            "title": "Female",
+            "transform": [{"filter": {"field": "gender", "equal": "female"}}],
+            "encoding": {
+                "x": {
+                    "aggregate": "sum",
+                    "field": "population",
+                    "type": "quantitative",
+                    "title": "Population",
+                    "axis": {"format": "s"},
+                    "sort": "descending"
+                },
+                "y": {
+                    "field": "age",
+                    "type": "nominal",
+                    "axis": null, 
+                    "sort": "descending"
+                },
+                "color": {
+                    "field": "gender",
+                    "scale": {"range": ["lightblue", "violet"]},
+                    "legend": null
+                }
+            },
+            "mark": "bar"
+        },
+        {
+            "encoding": {
+                "y": {
+                    "field": "age",
+                    "type": "ordinal",
+                    "axis": null,
+                    "scale": {"domain": ["85+", "80 - 84", "75 - 79", "70 - 74", "65 - 69", "60 - 64", "55 - 59", "50 - 54", "45 - 49", "40 - 44", "35 - 39", "30 - 34", "25 - 29", "20 - 24",  "15 - 19", "10 - 14", "5 - 9", "0 - 4"]}
+                },
+                "text": {
+                    "field": "age",
+                    "type": "ordinal"
+                }
+            },
+            "mark": {
+                "type": "text",
+                "align": "center"
+            },
+            "width": 50,
+            "view": {"stroke": null}
+        },
+        {
+            "title": "Male",
+            "transform": [{"filter": {"field": "gender", "equal": "male"}}],
+            "encoding": {
+                "x": {
+                    "aggregate": "sum",
+                    "field": "population",
+                    "type": "quantitative",
+                    "title": "Population",
+                    "axis": {"format": "s"}
+                },
+                "y": {
+                    "field": "age",
+                    "type": "nominal",
+                    "title": null,
+                    "axis": null,
+                    "sort": "descending"
+                },
+                "color": {
+                    "field": "gender",
+                    "legend": null
+                }
+            },
+            "mark": "bar"            
+        }
+    ],
+    "config": {
+        "view": {"stroke": null},
+        "axis": {"grid": false}
+    }
+}
