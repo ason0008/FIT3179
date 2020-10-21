@@ -1,0 +1,69 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "hconcat": [
+      {
+        "data": {
+      "values": [
+        {"ethnicity": "Bumiputera", "population": 20655500},
+        {"ethnicity": "Chinese", "population": 6715200},
+        {"ethnicity": "Indian", "population": 2020800},
+        {"ethnicity": "Others", "population": 305300},
+        {"ethnicity": "Non-Malaysian Citizen", "population": 2960400}
+      ]
+    },
+    "mark": {"type": "arc", "innerRadius": 50},
+    "encoding": {
+      "theta": {"field": "population", "type": "quantitative"},
+      "color": {
+          "field": "ethnicity", 
+          "type": "nominal"
+      }
+    },
+    "selection": {
+      "click": {
+        "fields": ["ethnicity"],
+        "type": "single",
+        "init": {"ethnicity": "Bumiputera"},
+        "clear": false
+      }
+    }
+      },
+      {
+        "data": {
+          "name": "heatmap",
+          "url": "https://ason0008.github.io/FIT3179/data/age_ethnic_state.json"
+      },
+      "transform": [
+        {"filter": {"selection": "click"} },
+        {
+          "calculate": "datum.population + 1000", "as": "population"
+      }
+      ],
+      "mark": "rect",
+      "width": 300,
+      "height": 300,
+      "encoding": {
+          "x": {
+              "field": "state",
+              "type": "nominal",
+              "axis": {"labelAngle": -45}
+          },
+          "y": {
+              "field": "age",
+              "type": "nominal",
+              "scale": {"domain": ["85+", "80 - 84", "75 - 79", "70 - 74", "65 - 69", "60 - 64", "55 - 59", "50 - 54", "45 - 49", "40 - 44", "35 - 39", "30 - 34", "25 - 29", "20 - 24",  "15 - 19", "10 - 14", "5 - 9", "0 - 4"]}
+  
+          },
+          "color": {
+              "field": "population",
+              "type": "quantitative",
+              "scale": {"type": "log"}
+          }
+      }
+      }
+    ],
+    "config": {
+      "view": {"stroke": null}
+    }
+  }
+  
