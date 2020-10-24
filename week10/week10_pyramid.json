@@ -2,7 +2,8 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "title": {
         "text": "Population Pyramid 2020",
-        "anchor": "middle"
+        "anchor": "middle",
+        "fontSize": 20
     },
     "data": {
         "name": "age_gender",
