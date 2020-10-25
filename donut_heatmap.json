@@ -6,7 +6,7 @@
           "name": "ethnic_population",
           "url": "https://ason0008.github.io/FIT3179/data/ethnic_population.json"
         },
-        "mark": {"type": "arc", "innerRadius": 50},
+        "mark": {"type": "arc", "innerRadius": 35},
         "encoding": {
           "theta": {
             "field": "percentage", 
@@ -14,7 +14,8 @@
           },
           "color": {
             "field": "ethnicity", 
-            "type": "nominal"
+            "type": "nominal",
+            "scale": {"range": ["#a6d4ff", "#ffdbdb", "#fffacc", "#f0deff", "#daffc9"]}
           },
           "tooltip": [
             {
@@ -33,7 +34,9 @@
             "type": "single",
             "clear": false
           }
-        }
+        },
+        "width": 150,
+        "height": 150
       },
       {
         "data": {
@@ -45,8 +48,8 @@
           {"calculate": "datum.population + 1000", "as": "population"}
         ],
         "mark": "rect",
-        "width": 300,
-        "height": 300,
+        "width": 350,
+        "height": 350,
         "encoding": {
           "x": {
               "field": "state",
@@ -62,7 +65,7 @@
           "color": {
             "field": "population",
             "type": "quantitative",
-            "scale": {"type": "log"},
+            "scale": {"type": "log", "scheme": "redpurple"},
             "legend": {
               "title": "Population"
             }
