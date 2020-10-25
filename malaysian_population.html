@@ -6,11 +6,18 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
   <!-- Import vega-embed -->
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-  <link rel="stylesheet" href="./visualisation-styles.css">
+  <link rel="stylesheet" href="https://ason0008.github.io/FIT3179/visualisation-styles.css">
 </head>
 <body>
 <div class="title">Malaysian Population</div>
 <div class="introduction">In scientific terms, demographics is the study of population based on parameters such as population size, density, age structure, mortality rates, gender ratio and ethnicity ratio. It helps policymakers and world leaders project future population changes and decide if it is sustainable to make informed decisions. Various studies have shown the inverse relationship between country development and country population. This visualisation portrays Malaysia's population index based on a number of factors in a clear and understandable manner.</div>
+
+<div class="pyramid-title">Population of Malaysia based on Age and Gender</div>
+<div class="pyramid-grid">
+    <div id="population_pyramid"></div>
+</div>
+
+<div class="connector"></div>
 
 <div class="map-grid">
   <div id="map_waterfall"></div>
@@ -25,30 +32,23 @@
   <div id="donut_heatmap"></div>
 </div>
 
-<div class="connector"></div>
-
-<div class="pyramid-title">Population of Malaysia based on Age and Gender</div>
-<div class="pyramid-grid">
-    <div id="population_pyramid"></div>
-</div>
-
 <script type="text/javascript">
+    var population_pyramid = "https://ason0008.github.io/FIT3179/pyramid_year.json";
     var map_waterfall = "https://ason0008.github.io/FIT3179/map_waterfall.json";
     var donut_heatmap = "https://ason0008.github.io/FIT3179/donut_heatmap.json";
-    var population_pyramid = "https://ason0008.github.io/FIT3179/pyramid_year.json";
     // var map_waterfall = "./map_waterfall.json";
     // var donut_heatmap = "./donut_heatmap.json";
     // var population_pyramid = "./pyramid_year.json";
   
+    vegaEmbed('#population_pyramid', population_pyramid).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
     vegaEmbed('#map_waterfall', map_waterfall).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
     
      vegaEmbed('#donut_heatmap', donut_heatmap).then(function(result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-    }).catch(console.error);
-
-    vegaEmbed('#population_pyramid', population_pyramid).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
   </script>
