@@ -1,9 +1,5 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-    "title": {
-        "text": "Population of Malaysia based on Age and Gender (2011 - 2020)",
-        "anchor": "middle"
-    },
     "data": {
         "name": "age_gender",
         "url": "https://ason0008.github.io/FIT3179/data/age_gender_year.json"
