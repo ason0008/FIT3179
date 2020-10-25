@@ -95,6 +95,7 @@
     "config": {
       "view": {"stroke": null},
       "axis": {"grid": false, "labelFont": "Overpass", "titleFont": "Overpass"},
+      "background": "#fffdeb",
       "legend": {"labelFont": "Overpass", "titleFont": "Overpass"},
       "header": {"labelFont": "Overpass", "titleFont": "Overpass"},
       "mark": {"font": "Overpass"},
