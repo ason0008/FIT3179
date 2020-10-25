@@ -1,7 +1,7 @@
 [
-    {"ethnicity": "Bumiputera", "population": 20655500},
-    {"ethnicity": "Chinese", "population": 6715200},
-    {"ethnicity": "Indian", "population": 2020800},
-    {"ethnicity": "Others", "population": 305300},
-    {"ethnicity": "Non-Malaysian Citizen", "population": 2960400}
+    {"ethnicity": "Bumiputera", "population": 20655500, "percentage": 63.25},
+    {"ethnicity": "Chinese", "population": 6715200, "percentage": 20.56},
+    {"ethnicity": "Indian", "population": 2020800, "percentage": 6.19},
+    {"ethnicity": "Others", "population": 305300, "percentage": 9.07},
+    {"ethnicity": "Non-Malaysian Citizen", "population": 2960400, "percentage": 0.93}
 ]

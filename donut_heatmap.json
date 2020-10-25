@@ -9,7 +9,7 @@
         "mark": {"type": "arc", "innerRadius": 50},
         "encoding": {
           "theta": {
-            "field": "population", 
+            "field": "percentage", 
             "type": "quantitative"
           },
           "color": {
@@ -22,8 +22,8 @@
               "title": "Ethnicity"
             },
             {
-              "field": "population",
-              "title": "Population"
+              "field": "percentage",
+              "title": "Percentage"
             }
           ]
         },
@@ -62,7 +62,10 @@
           "color": {
             "field": "population",
             "type": "quantitative",
-            "scale": {"type": "log"}
+            "scale": {"type": "log"},
+            "legend": {
+              "title": "Population"
+            }
           },
           "tooltip": [
             {
