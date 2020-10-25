@@ -21,10 +21,10 @@
                 "selection": "click",
                 "field": "state",
                 "type": "nominal",
-                "scale": {"range": ["#fffdeb"]},
+                "scale": {"range": ["white"]},
                 "legend": null
               },
-              "value": "#fffdeb"
+              "value": "white"
             }
           },
           "selection": {
