@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "title": {
-        "text": "Population Pyramid 2020",
+        "text": "Population of Malaysia based on Age and Gender (2011 - 2020)",
         "anchor": "middle"
     },
     "data": {
@@ -133,6 +133,10 @@
     ],
     "config": {
         "view": {"stroke": null},
-        "axis": {"grid": false}
+        "axis": {"grid": false, "labelFont": "Overpass", "titleFont": "Overpass"},
+        "legend": {"labelFont": "Overpass", "titleFont": "Overpass"},
+        "header": {"labelFont": "Overpass", "titleFont": "Overpass"},
+        "mark": {"font": "Overpass"},
+        "title": {"font": "Overpass", "fontSize": 16}
     }
 }

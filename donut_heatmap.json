@@ -39,6 +39,7 @@
         "height": 150
       },
       {
+        "title": "Population of States based on Age and Ethnicity (2020)",
         "data": {
           "name": "heatmap",
           "url": "https://ason0008.github.io/FIT3179/data/age_ethnic_state.json"
