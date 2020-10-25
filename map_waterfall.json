@@ -9,7 +9,7 @@
         "format": {"property": "features"}
       },
       "width": 1000,
-      "height": 400,
+      "height": 450,
       "projection": {"type": "mercator"},
       "layer": [
         {
