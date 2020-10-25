@@ -8,7 +8,7 @@
         "url": "https://ason0008.github.io/FIT3179/data/state_boundaries.json",
         "format": {"property": "features"}
       },
-      "width": 900,
+      "width": 1000,
       "height": 400,
       "projection": {"type": "mercator"},
       "layer": [
@@ -57,7 +57,7 @@
                 "title": "Population Density", 
                 "direction": "horizontal", 
                 "orient": "none", 
-                "legendX": 400, 
+                "legendX": 450, 
                 "legendY": 20
               }
             },
@@ -87,8 +87,8 @@
         "name": "waterfall_chart",
         "url": "https://ason0008.github.io/FIT3179/data/population_increment.json"
       },
-      "width": 550,
-      "height": 400,
+      "width": 600,
+      "height": 500,
       "transform": [
         {"filter": {"selection": "click"}},
         {"window": [{"op": "sum", "field": "difference", "as": "sum"}]},
@@ -167,6 +167,10 @@
             },
             "tooltip": [
               {
+                "field": "state",
+                "title": "State"
+              },
+              {
                 "field": "year",
                 "title": "Year"
               },
@@ -235,6 +239,6 @@
     "legend": {"labelFont": "Overpass", "titleFont": "Overpass"},
     "header": {"labelFont": "Overpass", "titleFont": "Overpass"},
     "mark": {"font": "Overpass"},
-    "title": {"font": "Overpass", "subtitleFont": "Overpass"}
+    "title": {"font": "Overpass", "fontSize": 16}
   }
 }
