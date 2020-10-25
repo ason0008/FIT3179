@@ -4,7 +4,7 @@ body {
 
 @font-face {
     font-family: Overpass;
-    src: url('./Overpass-Regular.ttf');
+    src: url('https://ason0008.github.io/FIT3179/Overpass-Regular.ttf');
 }
 
 .map-grid {
