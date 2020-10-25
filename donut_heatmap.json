@@ -15,7 +15,7 @@
           "color": {
             "field": "ethnicity", 
             "type": "nominal",
-            "scale": {"range": ["#a6d4ff", "#ffdbdb", "#fffacc", "#f0deff", "#daffc9"]}
+            "scale": {"range": ["#4e61ad", "#54a6c4", "#99d7b9", "#d4eeb4", "#f7f4d2"]}
           },
           "tooltip": [
             {
@@ -35,8 +35,8 @@
             "clear": false
           }
         },
-        "width": 150,
-        "height": 150
+        "width": 200,
+        "height": 200
       },
       {
         "data": {
@@ -65,7 +65,7 @@
           "color": {
             "field": "population",
             "type": "quantitative",
-            "scale": {"type": "log", "scheme": "redpurple"},
+            "scale": {"type": "log"},
             "legend": {
               "title": "Population"
             }
