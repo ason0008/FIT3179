@@ -15,7 +15,8 @@
           "color": {
             "field": "ethnicity", 
             "type": "nominal",
-            "scale": {"range": ["#4e61ad", "#54a6c4", "#99d7b9", "#d4eeb4", "#f7f4d2"]}
+            "scale": {"range": ["#4e61ad", "#54a6c4", "#99d7b9", "#d4eeb4", "#f7f4d2"]},
+            "legend": {"title": "Ethnicity"}
           },
           "tooltip": [
             {

@@ -6,7 +6,8 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
   <!-- Import vega-embed -->
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-  <link rel="stylesheet" href="https://ason0008.github.io/FIT3179/visualisation-styles.css">
+  <!-- <link rel="stylesheet" href="https://ason0008.github.io/FIT3179/visualisation-styles.css"> -->
+  <link rel="stylesheet" href="./visualisation-styles.css">
 </head>
 <body>
 <div class="title">Malaysian Population</div>
@@ -23,7 +24,7 @@
   <div id="map_waterfall"></div>
 </div>
 
-<div class="filter-state-caption">Click on each state to check out their population changes from 2010 to 2020!</div>
+<div class="filter-map-caption">Click on each state to reveal the population changes over the past decade in the waterfall chart below!</div>
 <div class="waterfall-caption">Testing to see if I can put caption here.</div>
 <div class="connector"></div>
 
@@ -31,6 +32,8 @@
 <div class="heatmap-grid">
   <div id="donut_heatmap"></div>
 </div>
+<div class="filter-heatmap-caption">Click on the donut chart to filter the heatmap based on ethnicity!</div>
+<div class="donut-caption">As a multi-racial country, there are 3 main ethnicities in Malaysia: Bumiputera/Malay, Chinese and Indian.</div>
 
 <script type="text/javascript">
     var population_pyramid = "https://ason0008.github.io/FIT3179/pyramid_year.json";
