@@ -1,0 +1,68 @@
+body {
+    background-color: #fffdeb;
+}
+
+@font-face {
+    font-family: Overpass;
+    src: url('./Overpass-Regular.ttf');
+}
+
+.map-grid {
+    text-align: center;
+    /* background-color: #fffce0; */
+}
+
+.heatmap-grid {
+    text-align: center;
+    /* background-color: #ffdbdb; */
+}
+
+.pyramid-grid {
+    text-align: center;
+    /* background-color: #a6d4ff; */
+}
+
+.title {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: Overpass;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.introduction {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    font-family: Overpass;
+    font-size: 14px;
+}
+
+.filter-state-caption {
+    position: absolute;
+    margin-top: -925px;
+    margin-left: 400px;
+    font-family: Overpass;
+    font-size: 12px;
+    color: #2a61b5;
+}
+
+.waterfall-caption {
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 800px;
+    font-family: Overpass;
+}
+
+.heatmap-title, .pyramid-title {
+    height: 50px;
+    text-align: center;
+    font-family: Overpass;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.connector {
+    height: 100px;
+}
