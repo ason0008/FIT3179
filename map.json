@@ -17,10 +17,10 @@
             "selection": "click",
             "field": "state",
             "type": "nominal",
-            "scale": {"range": ["white"]},
+            "scale": {"range": ["fffbf5"]},
             "legend": null
           },
-          "value": "white"
+          "value": "fffbf5"
         }
       },
       "selection": {
