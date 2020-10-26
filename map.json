@@ -2,10 +2,6 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "width": 1000,
     "height": 400,
-    "title": {
-        "text": "Population Density of States in Malaysia 2020",
-        "align": "center"
-    },
     "data": {
         "name": "malaysia_map",
         "url": "https://ason0008.github.io/FIT3179/data/state_boundaries.json",
