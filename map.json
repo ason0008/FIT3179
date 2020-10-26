@@ -100,7 +100,8 @@
       "transform": [{"filter": {"selection": "click"}}],
       "mark": {
         "type": "text",
-        "dx": -50
+        "dx": -50,
+        "font": "Overpass"
       },
       "encoding": {
         "text": {
