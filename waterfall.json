@@ -126,21 +126,21 @@
           }
         },
         {
-          "mark": {"type": "text", "dy": -4, "fontSize": 8, "baseline": "bottom"},
+          "mark": {"type": "text", "dy": -4, "font": "Overpass", "fontSize": 8, "baseline": "bottom"},
           "encoding": {
             "y": {"field": "sum_inc", "type": "quantitative"},
             "text": {"field": "label_sum_inc", "type": "nominal"}
           }
         },
         {
-          "mark": {"type": "text", "dy": 4, "fontSize": 8, "baseline": "top"},
+          "mark": {"type": "text", "dy": 4, "font": "Overpass", "fontSize": 8, "baseline": "top"},
           "encoding": {
             "y": {"field": "sum_dec", "type": "quantitative"},
             "text": {"field": "label_sum_dec", "type": "nominal"}
           }
         },
         {
-          "mark": {"type": "text", "fontSize": 8, "fontWeight": "bold", "baseline": "middle"},
+          "mark": {"type": "text", "font": "Overpass", "fontSize": 8, "fontWeight": "bold", "baseline": "middle"},
           "encoding": {
             "y": {"field": "center", "type": "quantitative"},
             "text": {"field": "text_amount", "type": "nominal"},
@@ -159,6 +159,7 @@
   "config": {
     "view": {"stroke": null},
     "axis": {"grid": false, "labelFont": "Overpass", "titleFont": "Overpass"},
+    "background": "#fffbf5",
     "legend": {"labelFont": "Overpass", "titleFont": "Overpass"},
     "header": {"labelFont": "Overpass", "titleFont": "Overpass"},
     "mark": {"font": "Overpass"},
