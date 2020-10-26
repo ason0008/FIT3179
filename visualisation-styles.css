@@ -1,33 +1,33 @@
-/* body {
-    background-color: #fffdeb;
-} */
-
 @font-face {
     font-family: Overpass;
     src: url('https://ason0008.github.io/FIT3179/Overpass-Regular.ttf');
 }
 
-.map-grid {
+body {
+    background-color: #fffbf5;
+}
+
+.map-grid, .waterfall-grid, .heatmap-grid, .pyramid-grid {
+    margin-left: 40px;
     text-align: center;
     /* background-color: #fffce0; */
 }
 
-.heatmap-grid {
-    text-align: center;
-    /* background-color: #ffdbdb; */
-}
-
-.pyramid-grid {
-    text-align: center;
-    /* background-color: #a6d4ff; */
-}
-
-.title {
+.main-title {
     margin-top: 20px;
     margin-bottom: 10px;
     text-align: center;
     font-family: Overpass;
-    font-size: 30px;
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+.map-title, .waterfall-title, .heatmap-title, .pyramid-title {
+    height: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-family: Overpass;
+    font-size: 20px;
     font-weight: bold;
 }
 
@@ -37,15 +37,30 @@
     margin-bottom: 20px;
     font-family: Overpass;
     font-size: 14px;
+    text-align: center;
+}
+
+.map-grid, .waterfall-grid {
+    margin-top: -50px;
+}
+
+.spacing {
+    height: 80px;
 }
 
 .filter-map-caption {
     position: absolute;
-    margin-top: -925px;
-    margin-left: 350px;
+    margin-top: -300px;
+    margin-left: 450px;
     font-family: Overpass;
     font-size: 12px;
     color: #2a61b5;
+}
+
+.vega-bind-name {
+    margin-right: 10px;
+    font-family: Overpass;
+    font-size: 14px;
 }
 
 .waterfall-caption {
@@ -53,19 +68,6 @@
     margin-top: -200px;
     margin-left: 800px;
     font-family: Overpass;
-}
-
-.heatmap-title, .pyramid-title {
-    height: 50px;
-    margin-bottom: 30px;
-    text-align: center;
-    font-family: Overpass;
-    font-size: 22px;
-    font-weight: bold;
-}
-
-.connector {
-    height: 80px;
 }
 
 .filter-heatmap-caption {
@@ -84,4 +86,19 @@
     margin-left: 120px;
     font-family: Overpass;
     font-size: 16px;
+}
+
+.authorship {
+    margin-bottom: 5px;
+    font-family: Overpass;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.source {
+    margin-bottom: 20px;
+    font-family: Overpass;
+    font-size: 12px;
+    text-align: center;
 }
