@@ -157,6 +157,11 @@
         }
       ] ,
   "config": {
-    "view": {"stroke": null}  
+    "view": {"stroke": null},
+    "axis": {"grid": false, "labelFont": "Overpass", "titleFont": "Overpass"},
+    "legend": {"labelFont": "Overpass", "titleFont": "Overpass"},
+    "header": {"labelFont": "Overpass", "titleFont": "Overpass"},
+    "mark": {"font": "Overpass"},
+    "title": {"font": "Overpass", "fontSize": 16}
   }
 }

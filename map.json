@@ -1,115 +1,120 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-    "width": 1000,
-    "height": 400,
-    "data": {
-        "name": "malaysia_map",
-        "url": "https://ason0008.github.io/FIT3179/data/state_boundaries.json",
-        "format": {"property": "features"}
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 1050,
+  "height": 400,
+  "data": {
+    "name": "malaysia_map",
+    "url": "https://ason0008.github.io/FIT3179/data/state_boundaries.json",
+    "format": {"property": "features"}
+  },
+  "layer": [
+    {
+      "data": {"values": [{"state": "Malaysia"}]},
+      "mark": "rect",
+      "encoding": {
+        "color": {
+          "condition": {
+            "selection": "click",
+            "field": "state",
+            "type": "nominal",
+            "scale": {"range": ["white"]},
+            "legend": null
+          },
+          "value": "white"
+        }
+      },
+      "selection": {
+        "click": {
+          "fields": ["state"], 
+          "type": "single", 
+          "init": {"state": "Malaysia"}, 
+          "clear": false
+        }
+      }
     },
-    "layer": [
-        {
-            "data": {"values": [{"state": "Malaysia"}]},
-            "mark": "rect",
-            "encoding": {
-              "color": {
-                "condition": {
-                  "selection": "click",
-                  "field": "state",
-                  "type": "nominal",
-                  "scale": {"range": ["white"]},
-                  "legend": null
-                },
-                "value": "white"
-              }
-            },
-            "selection": {
-              "click": {
-                "fields": ["state"], 
-                "type": "single", 
-                "init": {"state": "Malaysia"}, 
-                "clear": false
-              }
-            }
+    {
+      "transform": [{
+        "lookup": "properties.state",
+        "from": {
+          "data": {
+            "name": "state_population",
+            "url": "https://ason0008.github.io/FIT3179/data/state_population.json"
+          },
+          "key": "state",
+          "fields": ["state", "population_density"]
+        }
+      }],
+      "encoding": {
+        "color": {
+          "field": "population_density",
+          "type": "quantitative",
+          "scale": {"type": "log", "scheme": "yellowgreenblue"},
+          "legend": {
+            "title": "Population Density", 
+            "direction": "horizontal", 
+            "orient": "none", 
+            "legendX": 450, 
+            "legendY": 20
+          }
+        },
+        "tooltip": [
+          {
+            "field": "state", 
+            "title": "State"
           },
           {
-            "transform": [{
-              "lookup": "properties.state",
-              "from": {
-                "data": {
-                  "name": "state_population",
-                  "url": "https://ason0008.github.io/FIT3179/data/state_population.json"
-                },
-                "key": "state",
-                "fields": ["state", "population_density"]
-              }
-            }],
-            "encoding": {
-              "color": {
-                "field": "population_density",
-                "type": "quantitative",
-                "scale": {"type": "log", "scheme": "yellowgreenblue"},
-                "legend": {
-                  "title": "Population Density", 
-                  "direction": "horizontal", 
-                  "orient": "none", 
-                  "legendX": 450, 
-                  "legendY": 20
-                }
-              },
-              "tooltip": [
-                {
-                  "field": "state", 
-                  "title": "State"
-                },
-                {
-                  "field": "population_density",
-                  "type": "quantitative",
-                  "title": "Population Density"
-                }
-              ]
-            },
-            "mark": {
-              "type": "geoshape",
-              "stroke": "#000000",
-              "strokeWidth": 0.5
-            }
-          },
-        {
-            "data": {
-                "values": [
-                    {"state": "Federal Territory of Kuala Lumpur", "fun_fact": "KL: I have a lot of humans"},
-                    {"state": "Federal Territory of Labuan", "fun_fact": "Labuan: I have a lot of humans"},
-                    {"state": "Federal Territory of Putrajaya", "fun_fact": "Putrajaya: I have a lot of humans"},
-                    {"state": "Johor", "fun_fact": "Putrajaya: I have a lot of humans"},
-                    {"state": "Kedah", "fun_fact": "Putrajaya: I have a lot of humans"},
-                    {"state": "Kelantan", "fun_fact": "Putrajaya: I have a lot of humans"},
-                    {"state": "Melaka", "fun_fact": "Putrajaya: I have a lot of humans"},
-                    {"state": "Negeri Sembilan", "fun_fact": "Putrajaya: I have a lot of humans"},
-                    {"state": "Pahang", "fun_fact": "Putrajaya: I have a lot of humans"},
-                    {"state": "Penang", "fun_fact": "Putrajaya: I have a lot of humans"},
-                    {"state": "Perak", "fun_fact": "Putrajaya: I have a lot of humans"},
-                    {"state": "Perlis", "fun_fact": "Putrajaya: I have a lot of humans"},
-                    {"state": "Sabah", "fun_fact": "Putrajaya: I have a lot of humans"},
-                    {"state": "Sarawak", "fun_fact": "Putrajaya: I have a lot of humans"},
-                    {"state": "Selangor", "fun_fact": "Putrajaya: I have a lot of humans"},
-                    {"state": "Terengganu", "fun_fact": "Putrajaya: I have a lot of humans"}
-                ]
-            },
-            "transform": [{"filter": {"selection": "click"}}],
-            "mark": {
-                "type": "text",
-                "dx": -50
-            },
-            "encoding": {
-                "text": {
-                    "field": "fun_fact"
-                }
-            }
+            "field": "population_density",
+            "type": "quantitative",
+            "title": "Population Density"
+          }
+        ]
+      },
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#000000",
+        "strokeWidth": 0.5
+      },
+      "projection": {"type": "mercator"}
+    },
+    {
+      "data": {
+        "values": [
+          {"state": "Federal Territory of Kuala Lumpur", "fun_fact": "KL: I have a lot of humans"},
+          {"state": "Federal Territory of Labuan", "fun_fact": "Labuan: I have a lot of humans"},
+          {"state": "Federal Territory of Putrajaya", "fun_fact": "Putrajaya: I have a lot of humans"},
+          {"state": "Johor", "fun_fact": "Putrajaya: I have a lot of humans"},
+          {"state": "Kedah", "fun_fact": "Putrajaya: I have a lot of humans"},
+          {"state": "Kelantan", "fun_fact": "Putrajaya: I have a lot of humans"},
+          {"state": "Melaka", "fun_fact": "Putrajaya: I have a lot of humans"},
+          {"state": "Negeri Sembilan", "fun_fact": "Putrajaya: I have a lot of humans"},
+          {"state": "Pahang", "fun_fact": "Putrajaya: I have a lot of humans"},
+          {"state": "Penang", "fun_fact": "Putrajaya: I have a lot of humans"},
+          {"state": "Perak", "fun_fact": "Putrajaya: I have a lot of humans"},
+          {"state": "Perlis", "fun_fact": "Putrajaya: I have a lot of humans"},
+          {"state": "Sabah", "fun_fact": "Putrajaya: I have a lot of humans"},
+          {"state": "Sarawak", "fun_fact": "Putrajaya: I have a lot of humans"},
+          {"state": "Selangor", "fun_fact": "Putrajaya: I have a lot of humans"},
+          {"state": "Terengganu", "fun_fact": "Putrajaya: I have a lot of humans"}
+        ]
+      },
+      "transform": [{"filter": {"selection": "click"}}],
+      "mark": {
+        "type": "text",
+        "dx": -50
+      },
+      "encoding": {
+        "text": {
+          "field": "fun_fact"
         }
-    ],
-    "config": {
-        "view": {"stroke": null},
-        "axis": {"grid": false}
+      }
     }
+  ],
+  "config": {
+    "view": {"stroke": null},
+    "axis": {"grid": false, "labelFont": "Overpass", "titleFont": "Overpass"},
+    "legend": {"labelFont": "Overpass", "titleFont": "Overpass"},
+    "header": {"labelFont": "Overpass", "titleFont": "Overpass"},
+    "mark": {"font": "Overpass"},
+    "title": {"font": "Overpass", "fontSize": 16}
+  }
 }
