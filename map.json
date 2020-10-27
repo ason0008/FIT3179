@@ -84,8 +84,8 @@
       "transform": [{"filter": {"selection": "click"}}],
       "mark": {
         "type": "text",
-        "align": "center",
-        "dx": -50,
+        "align": "left",
+        "dx": -280,
         "dy": -80,
         "font": "Overpass"
       },
