@@ -78,7 +78,7 @@
     },
     {
       "data": {
-        "name": "state_facts"
+        "name": "state_facts",
         "url": "https://ason0008.github.io/FIT3179/data/state_facts.json"
       },
       "transform": [{"filter": {"selection": "click"}}],
