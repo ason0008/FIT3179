@@ -48,10 +48,17 @@ body {
     height: 80px;
 }
 
+.connector {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: Overpass;
+}
+
 .filter-map-caption {
     position: absolute;
-    margin-top: -300px;
-    margin-left: 450px;
+    margin-top: -422px;
+    margin-left: 336px;
     font-family: Overpass;
     font-size: 12px;
     color: #2a61b5;
