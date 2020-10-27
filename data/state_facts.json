@@ -1,6 +1,6 @@
 [
-    {"state": "Federal Territory of Kuala Lumpur", "fun_fact": "The capital of Malaysia, where vibrant metropolis with modern skyscrapers, chic shopping malls, lush green parks and unique heritage buildings are gathered."},
-    {"state": "Federal Territory of Labuan", "fun_fact": "Mesmerizing dive sites and duty-free shopping, all in Labuan."},
+    {"state": "Federal Territory of Kuala Lumpur", "fun_fact": "As the capital of Malaysia, Kuala Lumpur is the most populated state."},
+    {"state": "Federal Territory of Labuan", "fun_fact": "Located off the coast of Sabah, Labuan has mesmerizing dive sites and duty-free shopping."},
     {"state": "Federal Territory of Putrajaya", "fun_fact": "Home to the famous pink-domed Putra Mosque, Putrajaya is the federal administrative centre of Malaysia."},
     {"state": "Johor", "fun_fact": "From Johor, one can easily travel to Singapore by land."},
     {"state": "Kedah", "fun_fact": "Known as the Rice Bowl of Malaysia, Kedah produces more than half of the country's rice supply."},
@@ -12,7 +12,7 @@
     {"state": "Perak", "fun_fact": "A name derived from the once abundant silvery tin-ore deposits, Perak means 'silver' in Bahasa Melayu."},
     {"state": "Perlis", "fun_fact": "Perlis is home to the Sanai Limestone, a rare Devonian limestone unit."},
     {"state": "Sabah", "fun_fact": "Sabah is home to Malaysia's tallest mountain, Mount Kinabalu, a UNESCO World Heritage Site."},
-    {"state": "Sarawak", "fun_fact": "Sarawak, the state where every other Malaysian thinks its citizens still live on trees."},
+    {"state": "Sarawak", "fun_fact": "As the largest state of Malaysia, Sarawak is abundant in natural resources."},
     {"state": "Selangor", "fun_fact": "As the most populated state in Malaysia, Selangor is 'home' to many Malaysians from other states."},
     {"state": "Terengganu", "fun_fact": "As the 'Gem of East Coast', Terengganu is home to pristine tropical islands and has a coastline of 244km."}
 ]
