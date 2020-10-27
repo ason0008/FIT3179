@@ -84,9 +84,10 @@
       "mark": {
         "type": "text",
         "align": "left",
-        "dx": -280,
+        "dx": -290,
         "dy": -100,
-        "font": "Overpass"
+        "font": "Overpass",
+        "fontSize": 14
       },
       "encoding": {
         "text": {
