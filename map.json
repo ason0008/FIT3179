@@ -85,9 +85,9 @@
         "type": "text",
         "align": "left",
         "dx": -290,
-        "dy": -100,
+        "dy": -120,
         "font": "Overpass",
-        "fontSize": 14
+        "fontSize": 13
       },
       "encoding": {
         "text": {
