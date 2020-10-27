@@ -52,9 +52,8 @@
           "legend": {
             "title": "Population Density", 
             "direction": "horizontal", 
-            "orient": "none", 
-            "legendX": 450, 
-            "legendY": 20
+            "orient": "bottom",
+            "values": [22.63, 7299.18]
           }
         },
         "tooltip": [
