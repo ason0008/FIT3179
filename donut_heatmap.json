@@ -1,5 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "spacing": 80,
     "hconcat": [
       {
         "data": {
@@ -50,7 +51,7 @@
         ],
         "mark": "rect",
         "width": 380,
-        "height": 380,
+        "height": 400,
         "encoding": {
           "x": {
               "field": "state",
