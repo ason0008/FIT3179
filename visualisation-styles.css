@@ -9,7 +9,7 @@ body {
 
 .main-title {
     margin-top: 20px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     text-align: center;
     font-family: Overpass;
     font-size: 32px;
@@ -39,7 +39,7 @@ body {
 }
 
 .map-summary, .waterfall-summary, .heatmap-summary {
-    margin-top: 50px;
+    margin-top: 40px;
     margin-left: 80px;
     margin-right: 80px;
     text-align: left;
@@ -55,7 +55,7 @@ body {
     margin-top: 20px;
     margin-left: 80px;
     margin-right: 80px;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
     text-align: left;
     font-family: Overpass;
     font-size: 14px;
@@ -68,7 +68,7 @@ body {
 }
 
 .introductionB {
-    margin-bottom: 30px;
+    margin-bottom: 25px;
     font-family: Overpass;
     font-size: 14px;
     text-align: center;
@@ -96,6 +96,10 @@ body {
     font-family: Overpass;
 }
 
+.heatmap-grid {
+    margin-left: 100px;
+}
+
 .filter-heatmap-caption {
     position: absolute;
     margin-top: -520px;
@@ -107,11 +111,11 @@ body {
 
 .donut-caption {
     position: absolute;
-    width: 360px;
+    width: 380px;
     margin-top: -280px;
     margin-left: 140px;
     font-family: Overpass;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 .authorship {

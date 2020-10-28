@@ -37,8 +37,8 @@
             "clear": false
           }
         },
-        "width": 180,
-        "height": 180
+        "width": 160,
+        "height": 160
       },
       {
         "data": {
@@ -57,6 +57,7 @@
               "field": "state",
               "type": "nominal",
               "title": "State",
+              "scale": {"domain": ["Kuala Lumpur", "Labuan", "Putrajaya", "Johor", "Kedah", "Kelantan", "Pahang", "Penang", "Perak", "Perlis", "Sabah", "Sarawak", "Selangor", "Terengganu"]},
               "axis": {"labelAngle": -45}
           },
           "y": {
