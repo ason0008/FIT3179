@@ -7,19 +7,26 @@ body {
     background-color: #fffbf5;
 }
 
-.map-grid, .waterfall-grid, .heatmap-grid, .pyramid-grid {
-    margin-left: 40px;
-    text-align: center;
-    /* background-color: #fffce0; */
-}
-
 .main-title {
     margin-top: 20px;
     margin-bottom: 10px;
     text-align: center;
     font-family: Overpass;
     font-size: 32px;
-    font-weight: bolder;
+    font-weight: bold;
+}
+
+.map-grid, .waterfall-grid, .heatmap-grid, .pyramid-grid {
+    margin-left: 40px;
+    text-align: center;
+}
+
+.map-grid {
+    margin-top: -50px;
+}
+
+.waterfall-grid {
+    margin-top: -30px;
 }
 
 .map-title, .waterfall-title, .heatmap-title, .pyramid-title {
@@ -27,21 +34,17 @@ body {
     margin-bottom: 30px;
     text-align: center;
     font-family: Overpass;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: bold;
 }
 
-.introduction {
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-bottom: 20px;
+.map-summary, .waterfall-summary, .heatmap-summary {
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: left;
     font-family: Overpass;
-    font-size: 14px;
-    text-align: center;
-}
-
-.map-grid, .waterfall-grid {
-    margin-top: -50px;
+    font-size: 16px;
 }
 
 .spacing {
@@ -49,10 +52,22 @@ body {
 }
 
 .connector {
-    margin-top: 50px;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
     margin-bottom: 50px;
-    text-align: center;
+    text-align: left;
     font-family: Overpass;
+    font-size: 16px;
+}
+
+.introduction {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    font-family: Overpass;
+    font-size: 14px;
+    text-align: center;
 }
 
 .filter-map-caption {
@@ -60,7 +75,7 @@ body {
     margin-top: -422px;
     margin-left: 336px;
     font-family: Overpass;
-    font-size: 12px;
+    font-size: 13px;
     color: #2a61b5;
 }
 
@@ -80,7 +95,7 @@ body {
 .filter-heatmap-caption {
     position: absolute;
     margin-top: -520px;
-    margin-left: 618px;
+    margin-left: 628px;
     font-family: Overpass;
     font-size: 12px;
     color: #2a61b5;
@@ -88,11 +103,11 @@ body {
 
 .donut-caption {
     position: absolute;
-    width: 380px;
-    margin-top: -260px;
-    margin-left: 120px;
+    width: 360px;
+    margin-top: -280px;
+    margin-left: 140px;
     font-family: Overpass;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .authorship {
