@@ -15,7 +15,7 @@
           "color": {
             "field": "ethnicity", 
             "type": "nominal",
-            "scale": {"range": ["#38488c", "#4e61ad", "#54a6c4", "#99d7b9", "#d4eeb4"]},
+            "scale": {"range": ["#234a9e", "#2174b1", "#2fa0c0", "#60c1bf", "#b7e3b5"]},
             "legend": {"title": "Ethnicity"}
           },
           "tooltip": [
@@ -49,8 +49,8 @@
           {"calculate": "datum.population + 1000", "as": "population"}
         ],
         "mark": "rect",
-        "width": 350,
-        "height": 350,
+        "width": 380,
+        "height": 380,
         "encoding": {
           "x": {
               "field": "state",
