@@ -57,7 +57,7 @@
               "field": "state",
               "type": "nominal",
               "title": "State",
-              "scale": {"domain": ["Kuala Lumpur", "Labuan", "Putrajaya", "Johor", "Kedah", "Kelantan", "Pahang", "Penang", "Perak", "Perlis", "Sabah", "Sarawak", "Selangor", "Terengganu"]},
+              "scale": {"domain": ["Kuala Lumpur", "Labuan", "Putrajaya", "Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang", "Penang", "Perak", "Perlis", "Sabah", "Sarawak", "Selangor", "Terengganu"]},
               "axis": {"labelAngle": -45}
           },
           "y": {

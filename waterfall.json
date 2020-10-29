@@ -10,7 +10,7 @@
     "value": "Malaysia",
     "bind": {
       "input": "select", 
-      "options": ["Malaysia", "Federal Territory of Kuala Lumpur", "Federal Territory of Labuan", "Federal Territory of Putrajaya", "Johor", "Kedah", "Kelantan", "Pahang", "Penang", "Perak", "Perlis", "Sabah", "Sarawak", "Selangor", "Terengganu"],
+      "options": ["Malaysia", "Federal Territory of Kuala Lumpur", "Federal Territory of Labuan", "Federal Territory of Putrajaya", "Johor", "Kedah", "Kelantan", "Melaka", "Negeri Sembilan", "Pahang", "Penang", "Perak", "Perlis", "Sabah", "Sarawak", "Selangor", "Terengganu"],
       "name": "State"
     }
   }],
