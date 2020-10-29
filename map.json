@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 1050,
-  "height": 380,
+  "height": 360,
   "data": {
     "name": "malaysia_map",
     "url": "https://ason0008.github.io/FIT3179/data/state_boundaries.json",

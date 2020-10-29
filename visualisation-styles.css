@@ -51,13 +51,12 @@ body {
     margin-top: 32px;
     margin-left: 80px;
     margin-right: 80px;
-    margin-bottom: 40px;
     text-align: left;
     font-family: Overpass;
     font-size: 14px;
 }
 
-.connector {
+.connector, .conclusion {
     margin-top: 20px;
     margin-left: 80px;
     margin-right: 80px;
@@ -74,7 +73,7 @@ body {
 }
 
 .introductionB {
-    margin-bottom: 25px;
+    margin-bottom: 35px;
     font-family: Overpass;
     font-size: 14px;
     text-align: center;
@@ -103,13 +102,13 @@ body {
 }
 
 .heatmap-grid {
-    margin-left: 80px;
+    margin-left: 65px;
 }
 
 .filter-heatmap-caption {
     position: absolute;
     margin-top: -545px;
-    margin-left: 655px;
+    margin-left: 650px;
     font-family: Overpass;
     font-size: 12px;
     color: #2a61b5;
@@ -117,18 +116,18 @@ body {
 
 .donut-caption {
     position: absolute;
-    width: 380px;
+    width: 370px;
     margin-top: -340px;
-    margin-left: 140px;
+    margin-left: 155px;
     font-family: Overpass;
     font-size: 14px;
 }
 
 .gender-caption {
     position: absolute;
-    width: 380px;
+    width: 370px;
     margin-top: -130px;
-    margin-left: 140px;
+    margin-left: 155px;
     font-family: Overpass;
     font-size: 14px;
 }
