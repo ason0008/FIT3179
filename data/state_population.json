@@ -1,18 +1,98 @@
 [
-  {"state": "Federal Territory of Kuala Lumpur", "population_density": 7299.18},
-  {"state": "Federal Territory of Labuan", "population_density": 1094.51},
-  {"state": "Federal Territory of Putrajaya", "population_density": 2244.90},
-  {"state": "Johor", "population_density": 196.83},
-  {"state": "Kedah", "population_density": 230.02},
-  {"state": "Kelantan", "population_density": 126.28},
-  {"state": "Melaka", "population_density": 560.52},
-  {"state": "Negeri Sembilan", "population_density": 168.83},
-  {"state": "Pahang", "population_density": 46.45},
-  {"state": "Penang", "population_density": 1692.37},
-  {"state": "Perak", "population_density": 119.34},
-  {"state": "Perlis", "population_density": 310.48},
-  {"state": "Sabah", "population_density": 53.08},
-  {"state": "Sarawak", "population_density": 22.63},
-  {"state": "Selangor", "population_density": 806.77},
-  {"state": "Terengganu", "population_density": 96.60}
+  {
+    "state": "Federal Territory of Kuala Lumpur",
+    "population": 1773700,
+    "area": 243,
+    "population_density": 7299
+  },
+  {
+    "state": "Federal Territory of Labuan",
+    "population": 99600,
+    "area": 91,
+    "population_density": 1095
+  },
+  {
+    "state": "Federal Territory of Putrajaya",
+    "population": 110000,
+    "area": 49,
+    "population_density": 2245
+  },
+  {
+    "state": "Johor",
+    "population": 3781100,
+    "area": 19210,
+    "population_density": 197
+  },
+  {
+    "state": "Kedah",
+    "population": 2185200,
+    "area": 9500,
+    "population_density": 230
+  },
+  {
+    "state": "Kelantan",
+    "population": 1906700,
+    "area": 15099,
+    "population_density": 126
+  },
+  {
+    "state": "Melaka",
+    "population": 932700,
+    "area": 1664,
+    "population_density": 561
+  },
+  {
+    "state": "Negeri Sembilan",
+    "population": 1128800,
+    "area": 6686,
+    "population_density": 169
+  },
+  {
+    "state": "Pahang",
+    "population": 1678600,
+    "area": 36137,
+    "population_density": 46
+  },
+  {
+    "state": "Penang",
+    "population": 1773600,
+    "area": 1048,
+    "population_density": 1692
+  },
+  {
+    "state": "Perak",
+    "population": 2510300,
+    "area": 21035,
+    "population_density": 119
+  },
+  {
+    "state": "Perlis",
+    "population": 254900,
+    "area": 821,
+    "population_density": 310
+  },
+  {
+    "state": "Sabah",
+    "population": 3908500,
+    "area": 73631,
+    "population_density": 53
+  },
+  {
+    "state": "Sarawak",
+    "population": 2816500,
+    "area": 124450,
+    "population_density": 23
+  },
+  {
+    "state": "Selangor",
+    "population": 6538100,
+    "area": 8104,
+    "population_density": 807
+  },
+  {
+    "state": "Terengganu",
+    "population": 1259200,
+    "area": 13035,
+    "population_density": 97
+  }
 ]
