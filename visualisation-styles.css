@@ -86,7 +86,7 @@ body {
 .vega-bind-name {
     margin-right: 10px;
     font-family: Overpass;
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .waterfall-caption {
@@ -113,6 +113,15 @@ body {
     position: absolute;
     width: 380px;
     margin-top: -280px;
+    margin-left: 140px;
+    font-family: Overpass;
+    font-size: 13px;
+}
+
+.gender-caption {
+    position: absolute;
+    width: 380px;
+    margin-top: -20px;
     margin-left: 140px;
     font-family: Overpass;
     font-size: 13px;

@@ -53,7 +53,7 @@
         ],
         "mark": "rect",
         "width": 380,
-        "height": 400,
+        "height": 430,
         "encoding": {
           "x": {
               "field": "state",
