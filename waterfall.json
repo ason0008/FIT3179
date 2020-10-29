@@ -65,6 +65,14 @@
     {
       "calculate": "datum.label_sum_inc !== '' ? datum.label_sum_inc : datum.label_sum_dec",
       "as": "current_population"
+    },
+    {
+      "calculate": "datum.text_amount + ' people'",
+      "as": "change_label"
+    },
+    {
+      "calculate": "datum.current_population + ' people'",
+      "as": "population_label"
     }
   ],
   "encoding": {
@@ -108,12 +116,11 @@
             "title": "Year"
           },
           {
-            "field": "text_amount", 
+            "field": "change_label", 
             "title": "Change"
           },
           {
-            "field": "current_population",
-            "type": "quantitative",
+            "field": "population_label",
             "title": "Population"
           }
         ]

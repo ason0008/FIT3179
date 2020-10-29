@@ -8,6 +8,7 @@
           "url": "https://ason0008.github.io/FIT3179/data/ethnic_population.json"
         },
         "mark": {"type": "arc", "innerRadius": 35},
+        "transform": [{"calculate": "datum.percentage + '%'", "as": "percentage_label"}],
         "encoding": {
           "theta": {
             "field": "percentage", 
@@ -25,7 +26,7 @@
               "title": "Ethnicity"
             },
             {
-              "field": "percentage",
+              "field": "percentage_label",
               "title": "Percentage"
             }
           ]
@@ -47,7 +48,8 @@
         },
         "transform": [
           {"filter": {"selection": "click"} },
-          {"calculate": "datum.population + 1000", "as": "population"}
+          {"calculate": "datum.population + 1000", "as": "population"},
+          {"calculate": "datum.population + ' people'", "as": "population_label"}
         ],
         "mark": "rect",
         "width": 380,
@@ -77,19 +79,19 @@
           },
           "tooltip": [
             {
-              "field": "ethnicity",
-              "title": "Ethnicity"
-            },
-            {
               "field": "state",
               "title": "State"
+            },
+            {
+              "field": "ethnicity",
+              "title": "Ethnicity"
             },
             {
               "field": "age",
               "title": "Age"
             },
             {
-              "field": "population",
+              "field": "population_label",
               "title": "Population"
             }
           ]

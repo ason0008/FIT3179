@@ -43,7 +43,10 @@
           "key": "state",
           "fields": ["state", "population_density"]
         }
-      }],
+      },
+      {"calculate": "datum.population + ' people'", "as": "population_label"},
+      {"calculate": "datum.area + ' km2'", "as": "area_label"},
+      {"calculate": "datum.population_density + ' people/km2'", "as": "density_label"}],
       "encoding": {
         "color": {
           "field": "population_density",
@@ -53,7 +56,7 @@
             "title": "Population Density", 
             "direction": "horizontal", 
             "orient": "bottom",
-            "values": [22.63, 7299.18]
+            "values": [23, 7300]
           }
         },
         "tooltip": [
@@ -62,8 +65,15 @@
             "title": "State"
           },
           {
-            "field": "population_density",
-            "type": "quantitative",
+            "field": "population_label",
+            "title": "Population"
+          },
+          {
+            "field": "area_label",
+            "title": "Area"
+          },
+          {
+            "field": "density_label",
             "title": "Population Density"
           }
         ]
