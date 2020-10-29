@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-    "spacing": 80,
+    "spacing": 100,
     "hconcat": [
       {
         "data": {
