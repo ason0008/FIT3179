@@ -6,8 +6,8 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
     <!-- Import vega-embed -->
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-    <!-- <link rel="stylesheet" href="https://ason0008.github.io/FIT3179/visualisation-styles.css"> -->
-    <link rel="stylesheet" href="./visualisation-styles.css">
+    <link rel="stylesheet" href="https://ason0008.github.io/FIT3179/visualisation-styles.css">
+    <!-- <link rel="stylesheet" href="./visualisation-styles.css"> -->
   </head>
 
   <body>
@@ -23,7 +23,7 @@
 
     <div class="connector">But how did we get to this point today? Has the population density of each state always been the same? Let's delve deeper into the population changes of Malaysia over the past decade!</div>
 
-    <div class="waterfall-title">Population Changes of Malaysia in the Past 10 Years</div>
+    <div class="waterfall-title">Population Changes of Malaysia in the Past Decade</div>
     <div class="waterfall-grid">
       <div id="waterfall"></div>
     </div>
@@ -37,7 +37,7 @@
     </div>
     <div class="filter-heatmap-caption">Click on the donut chart to filter the heatmap based on ethnicity!</div>
     <div class="donut-caption">The 3 main ethnicities of Malaysia consist of Bumiputera (indigenous community and Malays), Chinese and Indian.</div>
-    <img src="./gender_symbol.png" width="auto" height="110" style="position:absolute;vertical-align:middle;margin:-260px 246px"/>
+    <img src="./data/gender_symbol.png" width="auto" height="110" style="position:absolute;vertical-align:middle;margin:-260px 246px"/>
     <div class="gender-caption">The ratio of the population of females to males in Malaysia is 0.49 : 0.51.</div>
     <div class="heatmap-summary">The diagrams above reveal that majority of Malaysians are in their 30s and late 20s. The largest ethnicity group in Malaysia is Bumiputera, followed by Chinese and Indian. Interestingly, non-Malaysian immigrants make up one-tenth of the Malaysian population. The gender ratio is rather even.</div>
 
@@ -47,9 +47,9 @@
     <div class="source">Data: Department of Statistics Malaysia Official Portal</div>
 
     <script type="text/javascript">
-        var map = "https://ason0008.github.io/FIT3179/map.json";
-        var waterfall = "https://ason0008.github.io/FIT3179/waterfall.json";
-        var donut_heatmap = "https://ason0008.github.io/FIT3179/donut_heatmap.json";
+        var map = "https://ason0008.github.io/FIT3179/idioms/map.json";
+        var waterfall = "https://ason0008.github.io/FIT3179/idioms/waterfall.json";
+        var donut_heatmap = "https://ason0008.github.io/FIT3179/idioms/donut_heatmap.json";
 
         vegaEmbed('#map', map).then(function(result) {
           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view

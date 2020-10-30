@@ -1,19 +1,19 @@
 [
-    {"state": "Federal Territory of Kuala Lumpur", "fun_fact": "As the capital of Malaysia, Kuala Lumpur is the most populated state."},
+    {"state": "Federal Territory of Kuala Lumpur", "fun_fact": "Home to one of the tallest twin towers in the world, Kuala Lumpur is the capital of Malaysia."},
     {"state": "Federal Territory of Labuan", "fun_fact": "Located off the coast of Sabah, Labuan has mesmerizing dive sites and duty-free shopping."},
-    {"state": "Federal Territory of Putrajaya", "fun_fact": "Home to the famous pink-domed Putra Mosque, Putrajaya is the federal administrative centre of Malaysia."},
-    {"state": "Johor", "fun_fact": "From Johor, one can easily travel to Singapore by land."},
+    {"state": "Federal Territory of Putrajaya", "fun_fact": "Home to the famous pink Putra Mosque, Putrajaya is the federal administrative centre of Malaysia."},
+    {"state": "Johor", "fun_fact": "Johor is the only state with their own army force, the Royal Johor Military Force."},
     {"state": "Kedah", "fun_fact": "Known as the Rice Bowl of Malaysia, Kedah produces more than half of the country's rice supply."},
     {"state": "Kelantan", "fun_fact": "The unique Kelantanese Malay language is incomprehensible even for habitual Malay speakers."},
     {"state": "Melaka", "fun_fact": "With 3 eras of colonial influence, Melaka is the birthplace of the nation's historical and cultural heritage."},
     {"state": "Negeri Sembilan", "fun_fact": "Made up of nine counties, Negeri Sembilan is the only state that practises the matrilineal social system."},
     {"state": "Pahang", "fun_fact": "The diverse landscapes of Pahang ranges from highlands to rainforests to beaches."},
-    {"state": "Penang", "fun_fact": "Penang is famous for their array of street food as well as colonial buildings."},
+    {"state": "Penang", "fun_fact": "The name Penang is derived from the betel nut tree, which is 'Pinang' in Malay."},
     {"state": "Perak", "fun_fact": "A name derived from the once abundant silvery tin-ore deposits, Perak means 'silver' in Bahasa Melayu."},
     {"state": "Perlis", "fun_fact": "Perlis is home to the Sanai Limestone, a rare Devonian limestone unit."},
     {"state": "Sabah", "fun_fact": "Sabah is home to Malaysia's tallest mountain, Mount Kinabalu, a UNESCO World Heritage Site."},
-    {"state": "Sarawak", "fun_fact": "As the largest state of Malaysia, Sarawak is abundant in natural resources."},
-    {"state": "Selangor", "fun_fact": "As the most populated state in Malaysia, Selangor is 'home' to many Malaysians from other states."},
-    {"state": "Terengganu", "fun_fact": "As the 'Gem of East Coast', Terengganu is home to pristine tropical islands and has a coastline of 244km."}
+    {"state": "Sarawak", "fun_fact": "As the largest state of Malaysia, Sarawak is rich in natural resources such as timber and oil."},
+    {"state": "Selangor", "fun_fact": "As the most happening state, Selangor is 'home' to many Malaysians from other states."},
+    {"state": "Terengganu", "fun_fact": "As the 'Gem of East Coast' with a coastline of 244km, Terengganu is home to pristine tropical islands."}
 ]
 
