@@ -4,8 +4,8 @@
 }
 
 @font-face {
-    font-family: Chipmunk;
-    src: url('https://ason0008.github.io/FIT3179/fonts/baby-chipmunk.ttf');
+    font-family: Lovtony;
+    src: url('https://ason0008.github.io/FIT3179/fonts/lovtony-sans.ttf');
 }
 
 body {
@@ -16,7 +16,7 @@ body {
     margin-top: 20px;
     margin-bottom: 10px;
     text-align: center;
-    font-family: Chipmunk;
+    font-family: Lovtony;
     font-size: 42px;
     font-weight: bold;
 }
@@ -38,10 +38,8 @@ body {
     height: 50px;
     margin-bottom: 30px;
     text-align: center;
-    font-family: Overpass;
-    font-size: 22px;
-    font-weight: bold;
-    letter-spacing: -1px;
+    font-family: Lovtony;
+    font-size: 24px;
 }
 
 .map-summary, .waterfall-summary {
