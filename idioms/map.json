@@ -94,7 +94,6 @@
       "mark": {
         "type": "text",
         "align": "center",
-        "dx": -290,
         "dy": -120,
         "font": "Overpass",
         "fontSize": 13
