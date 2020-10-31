@@ -66,7 +66,7 @@
     "difference": -8800
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Federal Territory of Kuala Lumpur",
     "start_population": 1674800,
     "difference": 0
@@ -138,7 +138,7 @@
     "difference": 300
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Federal Territory of Labuan",
     "start_population": 88200,
     "difference": 0
@@ -210,7 +210,7 @@
     "difference": 6300
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Federal Territory of Putrajaya",
     "start_population": 73400,
     "difference": 0
@@ -282,7 +282,7 @@
     "difference": 19900
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Johor",
     "start_population": 3362900,
     "difference": 0
@@ -354,7 +354,7 @@
     "difference": 11500
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Kedah",
     "start_population": 1949300,
     "difference": 0
@@ -426,7 +426,7 @@
     "difference": 22900
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Kelantan",
     "start_population": 1589900,
     "difference": 0
@@ -498,7 +498,7 @@
     "difference": 4300
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Melaka",
     "start_population": 823600,
     "difference": 0
@@ -570,7 +570,7 @@
     "difference": 2600
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Negeri Sembilan",
     "start_population": 1029500,
     "difference": 0
@@ -642,7 +642,7 @@
     "difference": 7200
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Pahang",
     "start_population": 1501900,
     "difference": 0
@@ -714,7 +714,7 @@
     "difference": 4800
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Penang",
     "start_population": 1575900,
     "difference": 0
@@ -786,7 +786,7 @@
     "difference": 1500
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Perak",
     "start_population": 2379000,
     "difference": 0
@@ -858,7 +858,7 @@
     "difference": 900
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Perlis",
     "start_population": 235800,
     "difference": 0
@@ -930,7 +930,7 @@
     "difference": 4100
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Sabah",
     "start_population": 3260000,
     "difference": 0
@@ -1002,7 +1002,7 @@
     "difference": 10500
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Sarawak",
     "start_population": 2487100,
     "difference": 0
@@ -1074,7 +1074,7 @@
     "difference": 32000
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Selangor",
     "start_population": 5502100,
     "difference": 0
@@ -1146,7 +1146,7 @@
     "difference": 14700
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Terengganu",
     "start_population": 1055400,
     "difference": 0
@@ -1218,7 +1218,7 @@
     "difference": 134700
   },
   {
-    "year": "End",
+    "year": "Total",
     "state": "Malaysia",
     "start_population": 28588800,
     "difference": 0

@@ -23,15 +23,15 @@
       "as": "lead"
     },
     {
-      "calculate": "datum.year === 'End' ? 0 : datum.sum - datum.difference",
+      "calculate": "datum.year === 'Total' ? 0 : datum.sum - datum.difference",
       "as": "previous_sum"
     },
     {
-      "calculate": "(datum.year !== 2010 && datum.year !== 'End' && datum.difference > 0 ? '+' : '') + datum.difference",
+      "calculate": "(datum.year !== 2010 && datum.year !== 'Total' && datum.difference > 0 ? '+' : '') + datum.difference",
       "as": "text_amount"
     },
     {
-      "calculate": "datum.year === 'End' ? '+' + datum.sum : datum.text_amount",
+      "calculate": "datum.year === 'Total' ? '+' + datum.sum : datum.text_amount",
       "as": "text_amount"
     },
     {
@@ -96,7 +96,7 @@
         "color": {
           "condition": [
             {
-              "test": "datum.year === 2010 || datum.year === 'End'",
+              "test": "datum.year === 2010 || datum.year === 'Total'",
               "value": "#b6d4e3"
             },
             {
@@ -162,7 +162,7 @@
         "color": {
           "condition": [
             {
-              "test": "datum.year === 2010 || datum.year === 'End'",
+              "test": "datum.year === 2010 || datum.year === 'Total'",
               "value": "#2f4675"
             }
           ],
