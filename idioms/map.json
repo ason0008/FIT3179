@@ -86,6 +86,18 @@
       "projection": {"type": "mercator"}
     },
     {
+      "mark": {
+        "type": "text",
+        "text": "Click on each state to reveal a fun fact!",
+        "align": "left",
+        "dx": -290,
+        "dy": -140,
+        "font": "Overpass",
+        "fontSize": 13,
+        "color": "#2a61b5"
+      }
+    },
+    {
       "data": {
         "name": "state_facts",
         "url": "https://ason0008.github.io/FIT3179/data/state_facts.json"

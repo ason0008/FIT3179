@@ -21,7 +21,7 @@ body {
     font-weight: bold;
 }
 
-.map-grid, .waterfall-grid, .heatmap-grid, .pyramid-grid {
+.map-grid, .waterfall-grid, .pyramid-grid {
     margin-left: 40px;
     text-align: center;
 }
@@ -32,6 +32,11 @@ body {
 
 .waterfall-grid {
     margin-top: -30px;
+}
+
+.heatmap-grid {
+    margin-left: 65px;
+    text-align: center;
 }
 
 .map-title, .waterfall-title, .heatmap-title, .pyramid-title {
@@ -96,17 +101,6 @@ body {
     margin-right: 10px;
     font-family: Overpass;
     font-size: 12px;
-}
-
-.waterfall-caption {
-    position: absolute;
-    margin-top: -200px;
-    margin-left: 800px;
-    font-family: Overpass;
-}
-
-.heatmap-grid {
-    margin-left: 65px;
 }
 
 .filter-heatmap-caption {
