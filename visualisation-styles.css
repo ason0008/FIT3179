@@ -91,7 +91,8 @@ body {
 .filter-map-caption {
     position: absolute;
     margin-top: -405px;
-    margin-left: 336px;
+    left: 0;
+    right: 0;    
     font-family: Overpass;
     font-size: 13px;
     color: #2a61b5;
@@ -106,7 +107,9 @@ body {
 .filter-heatmap-caption {
     position: absolute;
     margin-top: -545px;
-    margin-left: 650px;
+    left: 0;
+    right: 0;
+    text-align: center;
     font-family: Overpass;
     font-size: 12px;
     color: #2a61b5;
